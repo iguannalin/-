@@ -1,0 +1,4592 @@
+[
+  {
+    "jian": "这",
+    "fan": "這",
+    "desc": "[zhè] this; 这儿 zhèr here\n[zhèi] this (before classifier)"
+  },
+  {
+    "jian": "来",
+    "fan": "來",
+    "desc": "[lái] come; 原来 yuánlái originally, as a matter of fact; 来年 láinián coming/next year(s)\n[lai] (when used as a verb complement); 起来 qǐlai get up"
+  },
+  {
+    "jian": "国",
+    "fan": "國",
+    "desc": "[guó] (=国家 guójiā) country, state, nation, <family name>; 中国 Zhōngguó China; 美国 Měiguó USA"
+  },
+  {
+    "jian": "个",
+    "fan": "個",
+    "desc": "[gè] <general and non-specific classifier>; 个人 gèrén personal; 个人主页 gèrénzhùyè personal homepage\n[gě] 自个 zìgě oneself"
+  },
+  {
+    "jian": "说",
+    "fan": "說",
+    "desc": "[shuō] explain, scold, refer to, (=说话 shuōhuà) speak, say; 游说 yóushuō persuade\n[shuì] try to persuade; 游说 yóushuì lobbying"
+  },
+  {
+    "jian": "们",
+    "fan": "們",
+    "desc": "[men] <pluralizing suffix for pronouns and nouns referring to persons>; 我们 wǒmen we; 人们 rénmen people, persons"
+  },
+  {
+    "jian": "为",
+    "fan": "為",
+    "desc": "[wèi] for, for the sake of, in order to, in this connection\n[wéi] do, act, act as, be, become; 认为 rènwéi think or believe that...; 以为 yǐwéi think or believe erroneously that...\n{Compare with 办 bàn do}"
+  },
+  {
+    "jian": "时",
+    "fan": "時",
+    "desc": "[shí] period, season, (=时间 shíjiān, =时候 shíhou) time, (=小时 xiǎoshí) hour"
+  },
+  {
+    "jian": "会",
+    "fan": "會",
+    "desc": "[huì] can, able, meet, meeting, society, union, party\n[kuài] 会计 kuàijì accounting\n[huǐ] 会儿 huìr moment"
+  },
+  {
+    "jian": "着",
+    "fan": "著",
+    "desc": "[zhe] <verb particle marking a continuing progress/state>\n[zháo] touch\n[zhuó] wear clothes, dress, touch\n[zhāo] put in, add, (F招) make move in chess, trick, decieve"
+  },
+  {
+    "jian": "过",
+    "fan": "過",
+    "desc": "[guò] pass, cross, go by, exceed, <verb particle marking that someone has had the experience of doing something, that it has happened at least once>; 过马路 guò mǎlù cross the street; 我去过中国两次. wǒ qùguo Zhōngguó liǎng cì. I have gone to China twice."
+  },
+  {
+    "jian": "对",
+    "fan": "對",
+    "desc": "[duì] correct, answer, treat, agree, mutual, pair; 对不起 duìbuqǐ excuse me"
+  },
+  {
+    "jian": "没",
+    "fan": "沒",
+    "desc": "[méi] (=没有 méiyǒu) haven't, there isn't; 有没有? Yǒuméiyǒu? Is there or isn't there? Have (you) or haven't (you)?\n[mò] sink, overflow, disappear, confiscate"
+  },
+  {
+    "jian": "还",
+    "fan": "還",
+    "desc": "[hái] still, yet\n[huán] return, give back"
+  },
+  {
+    "jian": "只",
+    "fan": "祇",
+    "desc": "[zhǐ] only, just, merely, <classifier implying \"one of a pair\", animals, vessels, utensils, etc.>; 一只猫 yì zhǐ māo a cat\n[zhī] (F隻) single, one, only\n{Compare with 兄 xiōng brother}"
+  },
+  {
+    "jian": "无",
+    "fan": "無",
+    "desc": "[wú] without, nothingness, have not\n[mó] 南无 nánmó <Sanskrit> to give oneself totally to\n{Compare with 天 tiān heaven}"
+  },
+  {
+    "jian": "开",
+    "fan": "開",
+    "desc": "[kāi] open; 开始 kāishǐ begin 打开 dǎkāi open, unfold\n[kai] (when used as a verb complement)\n{Compare with 并 bìng combine}"
+  },
+  {
+    "jian": "见",
+    "fan": "見",
+    "desc": "[jiàn] appear to be, meet with, call on, (=看见 kànjian) see; 意见 yìjian idea, view, opinion; 听见 tīngjiàn hear\n[xiàn] show, appear, become visible\n{Compare with 贝 bèi shellfish}"
+  },
+  {
+    "jian": "经",
+    "fan": "經",
+    "desc": "[jīng] longitude (both geographic and in Chinese medecin), scripture, constant, regular, <family name>, deal with, (=经纪 jīngjì) manage (a business); 已经 yǐjing already; 经过 jīngguò pass, go through; 经验 jīngyàn experience; 经由 jīngyóu via, by way of; 经常 jīngcháng frequent, daily; 易经 Yìjīng Book of Changes;"
+  },
+  {
+    "jian": "头",
+    "fan": "頭",
+    "desc": "[tóu] head, top, first, <classifier for livestock, garlic, etc.>; 头发 tóufa hair\n[tou] 石头 shítou stone"
+  },
+  {
+    "jian": "从",
+    "fan": "從",
+    "desc": "[cóng] from, through, join, follower, secondary\n[cōng] 黑从从 hēicōngcōng murky"
+  },
+  {
+    "jian": "动",
+    "fan": "動",
+    "desc": "[dòng] move, change, arouce; 动物 dòngwù animal; 活动 huódòng activity; 运动 yùndòng sports"
+  },
+  {
+    "jian": "两",
+    "fan": "兩",
+    "desc": "[liǎng] two (before classifier), 50 grams"
+  },
+  {
+    "jian": "长",
+    "fan": "長",
+    "desc": "[cháng] long, lasting, length\n[zhǎng] grow up, chief, head, older, elder"
+  },
+  {
+    "jian": "样",
+    "fan": "樣",
+    "desc": "[yàng] appearance, shape, form, manner; 这样 zhèyàng like this; 怎么样 zěnmeyàng how? in what way?"
+  },
+  {
+    "jian": "现",
+    "fan": "現",
+    "desc": "[xiàn] show, appear, current; 现在 xiànzài now; 发现 fāxiàn discover; 现代 xiàndài modern"
+  },
+  {
+    "jian": "将",
+    "fan": "將",
+    "desc": "[jiāng] shall; 将来 jiānglái future\n[jiàng] general, a piece in Chinese chess 麻将 májiàng mahjongg"
+  },
+  {
+    "jian": "与",
+    "fan": "與",
+    "desc": "[yǔ] give, offer, help, support, and\n[yù] 参与 cānyù participate in\n[yú] 欤 <interrogative/esclamative particle>\n{Compare with 写 xiě write}"
+  },
+  {
+    "jian": "进",
+    "fan": "進",
+    "desc": "[jìn] enter, go forward, recieve, drink, eat, submit; 进步 jìnbù progress"
+  },
+  {
+    "jian": "实",
+    "fan": "實",
+    "desc": "[shí] solid, true, real; 事实 shìshí fact; 实际上 shíjìshang actually; 实在 shízài really"
+  },
+  {
+    "jian": "点",
+    "fan": "點",
+    "desc": "[diǎn] a drop (of liquid), dot, decimal point, a little, a bit, appoint time, select, choose, order food/drink, <classifier for small amounts>, (=点火 diǎnhuǒ) light a fire; 一点儿 yìdiǎnr a little; 点头 diǎntóu nod one's head"
+  },
+  {
+    "jian": "种",
+    "fan": "種",
+    "desc": "[zhǒng] kind, sort, breed, race\n[zhòng] to plant, cultivate"
+  },
+  {
+    "jian": "声",
+    "fan": "聲",
+    "desc": "[shēng] voice, declaration, (=声音 shēngyīn) sound, <classifier for sounds>; 声名 shēngmíng reputation, fame, statement, declaration"
+  },
+  {
+    "jian": "话",
+    "fan": "話",
+    "desc": "[huà] speech, word, language, dialect, (=说话 shuōhuà) talk, speak\n[huo] 白话 báihuo = báihuà vernacular, empty talk"
+  },
+  {
+    "jian": "儿",
+    "fan": "兒",
+    "desc": "[ér] child; 儿子 érzi son; 女儿 nǚ'ér daughter\n[r] (noun suffix); 这儿 zhèr here; 那儿 nàr there\n[rén] (when referring to the radical)\n{Compare with 兄 xiōng brother, 几 jǐ table, 臾 yú moment}"
+  },
+  {
+    "jian": "问",
+    "fan": "問",
+    "desc": "[wèn] ask, examine; 问题 wèntí question, problem; 访问 fǎngwèn visit"
+  },
+  {
+    "jian": "机",
+    "fan": "機",
+    "desc": "[jī] (=机器 jīqi) machine; 收音机 shōuyīnjī radio; 飞机 fēijī aircraft"
+  },
+  {
+    "jian": "给",
+    "fan": "給",
+    "desc": "[gěi] give, give to, for, for the benefit of; 送给 sònggěi send/present to\n[jǐ] give, supply, provide, (=供给 gōngjǐ) provide"
+  },
+  {
+    "jian": "业",
+    "fan": "業",
+    "desc": "[yè] line of business, trade, occupation, profession, course of study, engage in, <family name>; 商业 shāngyè commerce; 工业 gōngyè industry; 作业 zuòyè homework"
+  },
+  {
+    "jian": "间",
+    "fan": "間",
+    "desc": "[jiān] room, between, locality, within given time or space, <classifier for rooms>\n[jiàn] gap, interval\n[gān] 半间不界 bàn'gānbùgà neither this nor that, inexplicit, equivocal, mediocre"
+  },
+  {
+    "jian": "什",
+    "fan": "甚",
+    "desc": "[shén] 什么 shénme what?\n[shí] (=十 shí) ten"
+  },
+  {
+    "jian": "电",
+    "fan": "電",
+    "desc": "[diàn] (=闪电 shǎndiàn) (flash of) lightning, (=电气 diànqì) electricity; 电话 diànhuà phone; 电脑 diànnǎo computer"
+  },
+  {
+    "jian": "门",
+    "fan": "門",
+    "desc": "[mén] door, gate, family, house, valve, switch, <family name>, <classifier for courses, braches of science, etc.>; 门口 ménkǒu doorway; 部门 bùmén department; 门铃 ménlíng doorbell"
+  },
+  {
+    "jian": "东",
+    "fan": "東",
+    "desc": "[dōng] master, owner, <family name> (=东方 dōngfāng) east; 东北 dōngběi northeast; 东西 dōngxi thing, creature\n{Compare with 车 chē vehicle}"
+  },
+  {
+    "jian": "听",
+    "fan": "聽",
+    "desc": "[tīng] listen; 听见 tīngjiàn hear; 听不懂 tīngbudǒng don't understand (by listening)"
+  },
+  {
+    "jian": "气",
+    "fan": "氣",
+    "desc": "[qì] air, gas, vapor, spirit, vital energy; 天气 tiānqi weather"
+  },
+  {
+    "jian": "关",
+    "fan": "關",
+    "desc": "[guān] shut, close, turn off, close down, concern, key part; 关系 guānxi connection; 关于 guānyú concerning"
+  },
+  {
+    "jian": "内",
+    "fan": "內",
+    "desc": "[nèi] inside; 内容 nèiróng content\n{Compare with 肉 ròu meat and 丙 bǐng third}"
+  },
+  {
+    "jian": "却",
+    "fan": "卻",
+    "desc": "[què] however, but, yet"
+  },
+  {
+    "jian": "军",
+    "fan": "軍",
+    "desc": "[jūn] army, military, troops"
+  },
+  {
+    "jian": "产",
+    "fan": "產",
+    "desc": "[chǎn] give birth to, (=产生 chǎnshēng) produce, (=产品 chǎnpǐn) product"
+  },
+  {
+    "jian": "万",
+    "fan": "萬",
+    "desc": "[wàn] ten thousand, myriad, <family name>; 万岁 wànsuì long live\n[Mò] 万俟 Mòqí <family name>\n{Compare with 方 fāng square}"
+  },
+  {
+    "jian": "体",
+    "fan": "體",
+    "desc": "[tǐ] substance, (=身体 shēntǐ) body; 具体 jùtǐ concrete, specific; 体字 tǐzì style of written Chinese, typface, font\n[tī] 体己 tīji (or tǐjǐ) intimate, confidential"
+  },
+  {
+    "jian": "别",
+    "fan": "別",
+    "desc": "[bié] separate, other, don't, leave, differentiate, <family name>\n[biè] 别扭 bièniu awkward"
+  },
+  {
+    "jian": "处",
+    "fan": "處",
+    "desc": "[chù] place, part, point, department, office\n[chǔ] deal with, get along with somebody\n{Compare with 外 wài outside}"
+  },
+  {
+    "jian": "总",
+    "fan": "總",
+    "desc": "[zǒng] general, overall, always, (=总数 zǒngshù) sum, total; 总统 zǒngtǒng president (of a republic)"
+  },
+  {
+    "jian": "才",
+    "fan": "纔",
+    "desc": "[cái] talent, only then; 刚才 gāngcái just now*"
+  },
+  {
+    "jian": "场",
+    "fan": "場",
+    "desc": "[chǎng] field, place where people gather, stage, level open ground, country fair, market, <classifier for games, performances etc.>\n[cháng] <classifier for happenings>"
+  },
+  {
+    "jian": "师",
+    "fan": "師",
+    "desc": "[shī] (=老师 lǎoshī) teacher; 师傅 shīfu master"
+  },
+  {
+    "jian": "书",
+    "fan": "書",
+    "desc": "[shū] book, style of calligraphy; 书记 shūji clerk; 图书馆 túshūguǎn library"
+  },
+  {
+    "jian": "员",
+    "fan": "員",
+    "desc": "[yuán] member. ~ist, ~er; 委员会 wěiyuánhuì committee; 人员 rényuán personnel"
+  },
+  {
+    "jian": "华",
+    "fan": "華",
+    "desc": "[huá] glory, splendor, magnificent, (=中华 Zhōnghuá) China\n[Huà] <family name>; 华山 Huà Shān (mountain in Shaanxi)"
+  },
+  {
+    "jian": "报",
+    "fan": "報",
+    "desc": "[bào] (=报告 bàogào) report, (=报纸 bàozhǐ) newspaper, (=电报 diànbào) telegram"
+  },
+  {
+    "jian": "马",
+    "fan": "馬",
+    "desc": "[mǎ] horse; 马上 mǎshàng right away 马马虎虎 mǎmahūhū careless, casual\n{Compare with 乌 wū crow}"
+  },
+  {
+    "jian": "张",
+    "fan": "張",
+    "desc": "[zhāng] spread, sheet of paper, <classifier for surfaces, tables, postcards, etc.>; 紧张 jǐnzhāng tense, nervous"
+  },
+  {
+    "jian": "难",
+    "fan": "難",
+    "desc": "[nán] difficult\n[nàn] disaster"
+  },
+  {
+    "jian": "数",
+    "fan": "數",
+    "desc": "[shù] number, number, figure, fate, plan; 数学 shùxué math\n[shǔ] count, enumerate, list\n[shuò] frequently, repeatedly"
+  },
+  {
+    "jian": "车",
+    "fan": "車",
+    "desc": "[chē] car, vehicle with wheels, <family name>\n[jū] (a piece in Chinese chess)\n{Compare with 东 dōng east}"
+  },
+  {
+    "jian": "应",
+    "fan": "應",
+    "desc": "[yīng] promise, answer, respond, <family name>, (=应该 yīnggāi) should, ought to\n[yìng] 应用 yìngyòng apply"
+  },
+  {
+    "jian": "计",
+    "fan": "計",
+    "desc": "[jì] (=计算 jìsuàn) count, calculate, plot, plan, <family name>; 统计 tǒngjì statistics"
+  },
+  {
+    "jian": "亲",
+    "fan": "親",
+    "desc": "[qīn] close relative, kiss; 母亲 mùqin mother; 父亲 fùqin father; 亲自qīnzì in person\n[qìng] 亲家 qìngjia relatives by marriage"
+  },
+  {
+    "jian": "务",
+    "fan": "務",
+    "desc": "[wù] affair, business; 任务 rènwu assignment, task; 服务 fúwù service, serve"
+  },
+  {
+    "jian": "记",
+    "fan": "記",
+    "desc": "[jì] (=记得 jìde) remember, (=记录 jìlù) record\n{Compare with the \"open\" radical 己 jǐ self and not the close 已 yǐ already}"
+  },
+  {
+    "jian": "边",
+    "fan": "邊",
+    "desc": "[biān] on the side of something, margin, limit, <family name>, (=旁边 pángbiān) side; 这边 zhèbiān over here"
+  },
+  {
+    "jian": "风",
+    "fan": "風",
+    "desc": "[fēng] wind"
+  },
+  {
+    "jian": "战",
+    "fan": "戰",
+    "desc": "[zhàn] (=战争 zhànzhēng) war"
+  },
+  {
+    "jian": "许",
+    "fan": "許",
+    "desc": "[xǔ] allow, somewhat, <family name>, (=也许 yěxǔ) perhaps; 许多 xǔduō a lot\n[hǔ] 邪许 yéhǔ yell in unison, yo-ho-ho"
+  },
+  {
+    "jian": "觉",
+    "fan": "覺",
+    "desc": "[jué] perceive\n[jiào] (=睡觉 shuìjiào) sleep; 午觉 wǔjiào siesta, afternoon nap"
+  },
+  {
+    "jian": "题",
+    "fan": "題",
+    "desc": "[tí] topic, problem, inscribe; 问题 wèntí question, problem; 题目 tímù title"
+  },
+  {
+    "jian": "统",
+    "fan": "統",
+    "desc": "[tǒng] order, unite, (=系统 xìtǒng) system; 统治 tǒngzhì rule, dominate; 统一 tǒngyī together, unify, unite, integrate"
+  },
+  {
+    "jian": "请",
+    "fan": "請",
+    "desc": "[qǐng] please, request, invite; 请求 qǐngqiú ask, request"
+  },
+  {
+    "jian": "爱",
+    "fan": "愛",
+    "desc": "[ài] (=爱情 àiqíng) love; 爱人 àirén spouse, lover"
+  },
+  {
+    "jian": "让",
+    "fan": "讓",
+    "desc": "[ràng] let, allow"
+  },
+  {
+    "jian": "认",
+    "fan": "認",
+    "desc": "[rèn] (=认为 rènwéi) consider, (=认识 rènshi) recognize"
+  },
+  {
+    "jian": "论",
+    "fan": "論",
+    "desc": "[lùn] theory\n[Lún] 论语 Lúnyǔ The Confucian Analects"
+  },
+  {
+    "jian": "百",
+    "fan": "佰",
+    "desc": "[bǎi] hundred\n[bò] 抄总 chāobòzǒng express/cover everything\n{Compare with 白 bái white}"
+  },
+  {
+    "jian": "义",
+    "fan": "義",
+    "desc": "[yì] justice, (=意义 yìyì) meaning; 主义 zhǔyì ~ism"
+  },
+  {
+    "jian": "术",
+    "fan": "術",
+    "desc": "[shù] skill, (=艺术 yìshù) art; 技术 jìshù technique\n[zhú] 术酒 zhújiǔ medicinal wine"
+  },
+  {
+    "jian": "结",
+    "fan": "結",
+    "desc": "[jié] tie; 结果 jiéguǒ result; 结婚 jiéhūn marry\n[jiē] bear fruit"
+  },
+  {
+    "jian": "连",
+    "fan": "連",
+    "desc": "[lián] connect, including; 连忙 liánmáng right away; 连续 liánxù continuous"
+  },
+  {
+    "jian": "远",
+    "fan": "遠",
+    "desc": "[yuǎn] far"
+  },
+  {
+    "jian": "资",
+    "fan": "資",
+    "desc": "[zī] money, expenses; 资本主义 zīběnzhǔyì capitalism; 投资 tóuzī invest"
+  },
+  {
+    "jian": "队",
+    "fan": "隊",
+    "desc": "[duì] team, (=部队 bùduì) army, (=队伍 duìwǔ) troops"
+  },
+  {
+    "jian": "带",
+    "fan": "帶",
+    "desc": "[dài] belt, zone, carry, bring, take"
+  },
+  {
+    "jian": "条",
+    "fan": "條",
+    "desc": "[tiáo] twig, strip, item, <classifier for dogs, snakes, dragons, etc.>; 条件 tiáojiàn condition, term"
+  },
+  {
+    "jian": "变",
+    "fan": "變",
+    "desc": "[biàn] change; 变成 biànchéng become; 变化 biànhuà variation; 改变 gǎibiàn alter"
+  },
+  {
+    "jian": "联",
+    "fan": "聯",
+    "desc": "[lián] unite, join; 联系 liánxì integrate, relate, link, get in touch with"
+  },
+  {
+    "jian": "权",
+    "fan": "權",
+    "desc": "[quán] right, power"
+  },
+  {
+    "jian": "该",
+    "fan": "該",
+    "desc": "[gāi] (=应该 yīnggāi) should"
+  },
+  {
+    "jian": "领",
+    "fan": "領",
+    "desc": "[lǐng] to lead, collar; 领导 lǐngdǎo, 领袖 lǐngxiù leader; 本领 běnlǐng ability"
+  },
+  {
+    "jian": "传",
+    "fan": "傳",
+    "desc": "[chuán] pass, pass on; 传统 chuántǒng tradition\n[zhuàn] Confucian classic"
+  },
+  {
+    "jian": "红",
+    "fan": "紅",
+    "desc": "[hóng] (=红色 hóngsè) red; 东方红 Dōngfānghóng The East is Red\n[gōng] 女红 nǚgōng needlework"
+  },
+  {
+    "jian": "决",
+    "fan": "決",
+    "desc": "[jué] 解决 jiějué solve, resolve, settle; 决定 juédìng decide, resolve, make up one's mind"
+  },
+  {
+    "jian": "达",
+    "fan": "達",
+    "desc": "[dá] reach, arrive\n[dā] <referring to sounds of clocks or footsteps>\n[tà] 挑达 tāotà walk casually to and fro"
+  },
+  {
+    "jian": "办",
+    "fan": "辦",
+    "desc": "[bàn] do; 办法 bànfǎ method; 办公室 bàngōngshì office\n{Compare with 为 wèi for}"
+  },
+  {
+    "jian": "运",
+    "fan": "運",
+    "desc": "[yùn] carry, transport, (运气 yùnqi) fortune, luck; 运动 yùndòng move, turn around, sports"
+  },
+  {
+    "jian": "强",
+    "fan": "強",
+    "desc": "[qiáng] strong\n[qiǎng] strive\n[jiàng] 倔强 juéjiàng stubborn, unbending"
+  },
+  {
+    "jian": "区",
+    "fan": "區",
+    "desc": "[qū] (=地区 dìqū) area; 区别 qùbié difference\n[ōu] <family name>"
+  },
+  {
+    "jian": "转",
+    "fan": "轉",
+    "desc": "[zhuǎn] turn, transfer\n[zhuàn] rotate\n[zhuǎi] 转文 zhuǎiwén to flaunt one's speach"
+  },
+  {
+    "jian": "众",
+    "fan": "眾",
+    "desc": "[zhòng] crowd, many; 群众 qúnzhòng the masses; 听众 tīngzhòng audience"
+  },
+  {
+    "jian": "轻",
+    "fan": "輕",
+    "desc": "[qīng] light (compare with 重 zhòng heavy)"
+  },
+  {
+    "jian": "语",
+    "fan": "語",
+    "desc": "[yǔ] (=语言 yǔyán) language; 汉语 Hànyǔ Chinese; 语法 yǔfǎ grammar; 成语 chéngyǔ idiom\n[yù] tell"
+  },
+  {
+    "jian": "满",
+    "fan": "滿",
+    "desc": "[mǎn] full; 满足 mǎnzú satisfied, contented"
+  },
+  {
+    "jian": "写",
+    "fan": "寫",
+    "desc": "[xiě] write; 描写 miáoxiě describe, depict\n[xiè] 写意 xiěyǐ freehand brushwork, sketch\n{Compare with 与 yǔ and}"
+  },
+  {
+    "jian": "识",
+    "fan": "識",
+    "desc": "[shí] know; 认识 rènshi know, recognize; 识别 shíbié tell apart\n[zhì] (formal) remember, commit to memory, mark, sign"
+  },
+  {
+    "jian": "极",
+    "fan": "極",
+    "desc": "[jí] extreme, pole; 太极 Tài Jí the Supreme Ultimate (in Chinese cosmology); 太极拳 tǎijíquán shadowboxing"
+  },
+  {
+    "jian": "黄",
+    "fan": "黃",
+    "desc": "[huáng] (=黄色 huángsè) yellow"
+  },
+  {
+    "jian": "脸",
+    "fan": "臉",
+    "desc": "[liǎn] face"
+  },
+  {
+    "jian": "钱",
+    "fan": "錢",
+    "desc": "[qián] money, copper coin"
+  },
+  {
+    "jian": "党",
+    "fan": "黨",
+    "desc": "[dǎng] (political) party, clique; 共产党 Gòngchǎndǎng Communist Party; 国民党 Guómíndǎng Nationalist Party"
+  },
+  {
+    "jian": "设",
+    "fan": "設",
+    "desc": "[shè] set up; 建设 jiànshè build, construct; 设计 shèjì design, plan; 设备 shèbèi equipment, facilities"
+  },
+  {
+    "jian": "双",
+    "fan": "雙",
+    "desc": "[shuāng] pair, twin, double; 双方 shuāngfāng both sides"
+  },
+  {
+    "jian": "千",
+    "fan": "仟",
+    "desc": "[qiān] thousand\n{Compare with 干 gān stem and 于 yú at}"
+  },
+  {
+    "jian": "广",
+    "fan": "廣",
+    "desc": "[guǎng] wide, extensive\n[yǎn] (when referring to the radical)"
+  },
+  {
+    "jian": "议",
+    "fan": "議",
+    "desc": "[yì] (=议论 yìlùn) discuss, confer; 会议 huìyì meeting, conference; 建议 jiànyì suggest, propose"
+  },
+  {
+    "jian": "际",
+    "fan": "際",
+    "desc": "[jì] (=边际 biānjì) boundary; 实际 shíjì reality; 国际 guójì international"
+  },
+  {
+    "jian": "则",
+    "fan": "則",
+    "desc": "[zé] (conjunction); 原则 yuánzé principle; 否则 fǒuzé or else"
+  },
+  {
+    "jian": "单",
+    "fan": "單",
+    "desc": "[dān] alone, single, sheet\n[chán] 单于 chányú <hist.> chief of the Xiongnu\n[Shàn] <family name>"
+  },
+  {
+    "jian": "据",
+    "fan": "據",
+    "desc": "[jù] seize, depend on, (=根据 gēnjù) according to\n[jū] 拮据 jiéjū short of money, hard up"
+  },
+  {
+    "jian": "导",
+    "fan": "導",
+    "desc": "[dǎo] lead; 领导 lǐngdǎo leader"
+  },
+  {
+    "jian": "网",
+    "fan": "網",
+    "desc": "[wǎng] net; 网球 wǎngqiú tennis; 因特网 yīntèwáng Internet"
+  },
+  {
+    "jian": "专",
+    "fan": "專,耑",
+    "desc": "[zhuān] (=专门 zhuānmén) special, (=专家 zhuānjiā) expert; 专政 zhuānzhèng dictatorship"
+  },
+  {
+    "jian": "谁",
+    "fan": "誰",
+    "desc": "[shuí] who?\n[shéi] who?"
+  },
+  {
+    "jian": "读",
+    "fan": "讀",
+    "desc": "[dú] read\n[dòu] pause in reading"
+  },
+  {
+    "jian": "飞",
+    "fan": "飛",
+    "desc": "[fēi] fly; 飞机 fēijī airplane"
+  },
+  {
+    "jian": "观",
+    "fan": "觀",
+    "desc": "[guān] view, contemplation\n[guàn] 道观 Dàoguàn Daoist temple"
+  },
+  {
+    "jian": "争",
+    "fan": "爭",
+    "desc": "[zhēng] contend, dispute; 战争 zhànzhēng war, warfare; 斗争 dòuzhēng fight, struggle"
+  },
+  {
+    "jian": "组",
+    "fan": "組",
+    "desc": "[zǔ] organize, group; 组织 zǔzhī organization, organize, form"
+  },
+  {
+    "jian": "视",
+    "fan": "視",
+    "desc": "[shì] look; 电视 diànshì television"
+  },
+  {
+    "jian": "济",
+    "fan": "濟",
+    "desc": "[jì] 经济 jīngjì economy; 救济 jiùjì help disaster victims\n[jǐ] 济济 jǐjǐ multitudinous, numerous, magnificent"
+  },
+  {
+    "jian": "离",
+    "fan": "離",
+    "desc": "[lí] (=离开 líkāi) leave, from"
+  },
+  {
+    "jian": "虽",
+    "fan": "雖",
+    "desc": "[suī] (=虽然 suīrán) although"
+  },
+  {
+    "jian": "编",
+    "fan": "編",
+    "desc": "[biān] weave, organize, (=编辑 biānjí) edit"
+  },
+  {
+    "jian": "宝",
+    "fan": "寶",
+    "desc": "[bǎo] treasure"
+  },
+  {
+    "jian": "谈",
+    "fan": "談",
+    "desc": "[tán] talk"
+  },
+  {
+    "jian": "随",
+    "fan": "隨",
+    "desc": "[suí] follow; 随便 suíbiàn as you like"
+  },
+  {
+    "jian": "剑",
+    "fan": "劍",
+    "desc": "[jiàn] sword; 宝剑 bǎojiàn double-edged sword"
+  },
+  {
+    "jian": "讲",
+    "fan": "講",
+    "desc": "[jiǎng] speak, explain, discuss, stress"
+  },
+  {
+    "jian": "杀",
+    "fan": "殺",
+    "desc": "[shā] kill, fight, weaken, reduce, burn (of medicine)"
+  },
+  {
+    "jian": "调",
+    "fan": "調",
+    "desc": "[diào] shift, tone\n[tiáo] adjust"
+  },
+  {
+    "jian": "团",
+    "fan": "團",
+    "desc": "[tuán] ball, lump, group; 团结 tuánjié unite, rally"
+  },
+  {
+    "jian": "终",
+    "fan": "終",
+    "desc": "[zhōng] end; 终于 zhōngyú finally; 始终 shǐzhōng all along; 终身 zhōngshēn life-long"
+  },
+  {
+    "jian": "乐",
+    "fan": "樂",
+    "desc": "[lè] enjoy, be glad, pleasure, (=快乐 kuàilè) happy\n[yuè] (=音乐 yīnyuè) music"
+  },
+  {
+    "jian": "级",
+    "fan": "級",
+    "desc": "[jí] grade, level; 阶级 jiējí (social) class, steps, stairs, rank"
+  },
+  {
+    "jian": "举",
+    "fan": "舉",
+    "desc": "[jǔ] raise; 举行 jǔxíng hold (a meeting); 选举 xuǎnjǔ election; 举例 jǔlì give an example"
+  },
+  {
+    "jian": "证",
+    "fan": "證",
+    "desc": "[zhèng] prove; 图书证 túshūzhèng library card; 签证 qiānzhèng visa"
+  },
+  {
+    "jian": "费",
+    "fan": "費",
+    "desc": "[fèi] cost; 学费 xuéfèi tuition"
+  },
+  {
+    "jian": "尔",
+    "fan": "爾",
+    "desc": "[ěr] <archaic> you; 尔后 ěrhòu thereafter; 高尔夫 gāo'ěrfū golf"
+  },
+  {
+    "jian": "热",
+    "fan": "熱",
+    "desc": "[rè] hot"
+  },
+  {
+    "jian": "响",
+    "fan": "響",
+    "desc": "[xiǎng] sound; 影响 yǐngxiǎng influence"
+  },
+  {
+    "jian": "称",
+    "fan": "稱",
+    "desc": "[chēng] weigh, name\n[chèn] 对称 duìchèn symmetric"
+  },
+  {
+    "jian": "兴",
+    "fan": "興",
+    "desc": "[xìng] 高兴 gāoxìng glad\n[xīng] 兴奋 xīngfèn excited\n{Compare with 六 liù six}"
+  },
+  {
+    "jian": "约",
+    "fan": "約",
+    "desc": "[yuē] approximately, arrange, appointment\n[yāo] weigh"
+  },
+  {
+    "jian": "阳",
+    "fan": "陽",
+    "desc": "[yáng] opposite of 阴 yīn; 太阳 tàiyáng the sun"
+  },
+  {
+    "jian": "惊",
+    "fan": "驚",
+    "desc": "[jīng] surprise"
+  },
+  {
+    "jian": "吗",
+    "fan": "嗎",
+    "desc": "[ma] <interrogative particle>\n[má] what; 干吗? gàn má? What's up?\n[mǎ] 吗啡 mǎfēi morphine"
+  },
+  {
+    "jian": "汉",
+    "fan": "漢",
+    "desc": "[hàn] Chinese ethnicity; 汉语 hànyu Chinese; 汉字 hànzi Chinese character; 老汉 lǎohàn old man"
+  },
+  {
+    "jian": "号",
+    "fan": "號",
+    "desc": "[hào] name, number, mark\n[háo] yell"
+  },
+  {
+    "jian": "绝",
+    "fan": "絕",
+    "desc": "[jué] cut off, absolute"
+  },
+  {
+    "jian": "选",
+    "fan": "選",
+    "desc": "[xuǎn] (=选择 xuǎnzé) choose, select; 选举 xuǎnjǔ election"
+  },
+  {
+    "jian": "参",
+    "fan": "參",
+    "desc": "[cān] 参加 cānjiā participate\n[shēn] 人参 rénshēn ginseng\n[cēn] 参差 cēncī uneven, irregular"
+  },
+  {
+    "jian": "亚",
+    "fan": "亞",
+    "desc": "[yà] inferior, second; 亚洲 Yàzhōu Asia"
+  },
+  {
+    "jian": "伤",
+    "fan": "傷",
+    "desc": "[shāng] wound, injury, injure; 创伤 chuāngshāng trauma"
+  },
+  {
+    "jian": "类",
+    "fan": "類",
+    "desc": "[lèi] category, kind, type; 类似 lèisì similar"
+  },
+  {
+    "jian": "备",
+    "fan": "備",
+    "desc": "[bèi] (=准备 zhǔnbèi) get ready, prepare; 设备 shèbèi equipment"
+  },
+  {
+    "jian": "欢",
+    "fan": "歡",
+    "desc": "[huān] (=欢乐 huānlè) happy, joyous; 喜欢 xǐhuan like"
+  },
+  {
+    "jian": "势",
+    "fan": "勢",
+    "desc": "[shì] power; 形势 xíngshì circumstances; 姿势 zīshì posture"
+  },
+  {
+    "jian": "断",
+    "fan": "斷",
+    "desc": "[duàn] cut off; 不断 búduàn unceasing; 判断 pànduàn judge"
+  },
+  {
+    "jian": "陈",
+    "fan": "陳",
+    "desc": "[chén] display, explain, stale, (dynasty 557-589)"
+  },
+  {
+    "jian": "农",
+    "fan": "農",
+    "desc": "[nóng] (=农民 nóngmín) farmer, peasant; 农业 nóngyè agriculture"
+  },
+  {
+    "jian": "念",
+    "fan": "唸",
+    "desc": "[niàn] miss, read aloud; 观念 guānniàn concept; 念书 niànshū study"
+  },
+  {
+    "jian": "脑",
+    "fan": "腦",
+    "desc": "[nǎo] (=脑子 nǎozi) brain; 脑袋 nǎodai head; 脑壳 nǎoké skull; 电脑 diànnǎo computer"
+  },
+  {
+    "jian": "规",
+    "fan": "規",
+    "desc": "[guī] 规律 guīlǜ regular pattern; 规定 guīdìng regulations"
+  },
+  {
+    "jian": "妈",
+    "fan": "媽",
+    "desc": "[mā] mother, mom; 妈妈 māma mama"
+  },
+  {
+    "jian": "刚",
+    "fan": "剛",
+    "desc": "[gāng] firm, (=刚才 gāngcái) just (a moment ago)"
+  },
+  {
+    "jian": "显",
+    "fan": "顯",
+    "desc": "[xiǎn] appear; 显然 xiǎnrán obvious"
+  },
+  {
+    "jian": "陆",
+    "fan": "陸",
+    "desc": "[lù] land; 大陆 continent\n[liù] six (= 六 liù)"
+  },
+  {
+    "jian": "确",
+    "fan": "確",
+    "desc": "[què] true; 正确 zhèngquè correct; 确实 quèshí indeed; 明确 míngquè explicit"
+  },
+  {
+    "jian": "泽",
+    "fan": "澤",
+    "desc": "[zé] 沼泽 zhǎozé marsh, swamp; 色泽 sèzé colour and lustre; 毛泽东 Máo Zédōng CCP leader and founder of the PRC"
+  },
+  {
+    "jian": "紧",
+    "fan": "緊",
+    "desc": "[jǐn] tight; 紧张 jǐnzhāng tense; 要紧 yàojǐn important"
+  },
+  {
+    "jian": "帮",
+    "fan": "幫",
+    "desc": "[bāng] (=帮助 bāngzhù, 帮忙 bāngmáng) help, gang"
+  },
+  {
+    "jian": "线",
+    "fan": "線",
+    "desc": "[xiàn] line, thread; 光线 guāngxiàn light ray; 电线 diànxiàn (electric) wire"
+  },
+  {
+    "jian": "愿",
+    "fan": "願",
+    "desc": "[yuàn] wish"
+  },
+  {
+    "jian": "杨",
+    "fan": "楊",
+    "desc": "[yáng] poplar tree; 三角叶杨 sānjiǎoyèyáng cottonwood"
+  },
+  {
+    "jian": "节",
+    "fan": "節",
+    "desc": "[jié] joint, section, festival, holiday, (=节日 jiérì) holiday\n[jiē] knot, link; 节子 jiēzi gnarl, knot (in wood)"
+  },
+  {
+    "jian": "装",
+    "fan": "裝",
+    "desc": "[zhuāng] dress up, load, install, (=假装 jiǎzhuāng) pretend"
+  },
+  {
+    "jian": "岁",
+    "fan": "歲",
+    "desc": "[suì] years old; 岁数 suìshu age; 万岁 wànsuì long life, Your/His Majesty, \"Banzai\""
+  },
+  {
+    "jian": "严",
+    "fan": "嚴",
+    "desc": "[yán] severe, stern"
+  },
+  {
+    "jian": "铁",
+    "fan": "鐵",
+    "desc": "[tiě] iron; 地铁 dìtiě underground, subway"
+  },
+  {
+    "jian": "闻",
+    "fan": "聞",
+    "desc": "[wén] smell, hear; 新闻 xīnwén news"
+  },
+  {
+    "jian": "纪",
+    "fan": "紀",
+    "desc": "[jì] 世纪 shìjì century; 纪念 jìniàn memento; 纪律 jìlǜ discipline\n[Jǐ] <family name>"
+  },
+  {
+    "jian": "脚",
+    "fan": "腳",
+    "desc": "[jiǎo] foot; 赤脚 chìjiǎo barefoot; 脚趾 jiǎozhǐ toe\n[jué] (=角 jiǎo) role, part, character, actor, actress"
+  },
+  {
+    "jian": "苏",
+    "fan": "蘇",
+    "desc": "[sū] 苏醒 sūxǐng revive; 苏州 Sūzhōu; 苏联 Sūlián USSR"
+  },
+  {
+    "jian": "标",
+    "fan": "標",
+    "desc": "[biāo] mark; 标准 biāozhǔn standard"
+  },
+  {
+    "jian": "饭",
+    "fan": "飯",
+    "desc": "[fàn] rice, food"
+  },
+  {
+    "jian": "医",
+    "fan": "醫",
+    "desc": "[yī] (=医学 yīxué) medical science; 医生 yīshēng doctor; 医院 yīyuàn hospital"
+  },
+  {
+    "jian": "况",
+    "fan": "況",
+    "desc": "[kuàng] 情况 qíngkuàng circumstances; 况且 kuàngqiě moreover"
+  },
+  {
+    "jian": "软",
+    "fan": "軟",
+    "desc": "[ruǎn] soft; 软件 ruǎnjiàn software"
+  },
+  {
+    "jian": "击",
+    "fan": "擊",
+    "desc": "[jī] beat, strike, knock; 打击 dǎjī strike, hitt, attack, assault"
+  },
+  {
+    "jian": "仅",
+    "fan": "僅",
+    "desc": "[jǐn] (=仅仅 jǐnjǐn) only, barely"
+  },
+  {
+    "jian": "续",
+    "fan": "續",
+    "desc": "[xù] (=继续 jìxù) continue; 连续 liánxù continuous"
+  },
+  {
+    "jian": "独",
+    "fan": "獨",
+    "desc": "[dú] only, alone; 独立 dúlì independent"
+  },
+  {
+    "jian": "罗",
+    "fan": "羅",
+    "desc": "[luó] (=罗网 luówǎng) birdnet; 罗马 Luómǎ Rome; 罗盘 luópán compass\n[luō] 罗嗦 luōsuo wordy, troublesome; 哩哩罗罗 līliluōluō the sound of boiling/rumbling/etc."
+  },
+  {
+    "jian": "买",
+    "fan": "買",
+    "desc": "[mǎi] buy"
+  },
+  {
+    "jian": "户",
+    "fan": "戶",
+    "desc": "[hù] door, household; 窗户 chuānghù window"
+  },
+  {
+    "jian": "护",
+    "fan": "護",
+    "desc": "[hù] (=保护 bǎohù) guard, protect; 护士 hùshi nurse"
+  },
+  {
+    "jian": "责",
+    "fan": "責",
+    "desc": "[zé] duty; 责任 zérèn responsibility"
+  },
+  {
+    "jian": "项",
+    "fan": "項",
+    "desc": "[xiàng] (=项目 xiàngmù) item"
+  },
+  {
+    "jian": "卫",
+    "fan": "衛",
+    "desc": "[wèi] 保卫 defend; 卫生 sanitary; 卫星 satellite"
+  },
+  {
+    "jian": "图",
+    "fan": "圖",
+    "desc": "[tú] picture; 地图 dìtú map; 图书馆 túshūguǎn library"
+  },
+  {
+    "jian": "乱",
+    "fan": "亂",
+    "desc": "[luàn] chaotic, disorderly, messy; 混乱 hùnluàn chaos"
+  },
+  {
+    "jian": "刘",
+    "fan": "劉",
+    "desc": "[Liú] <family name>"
+  },
+  {
+    "jian": "爷",
+    "fan": "爺",
+    "desc": "[yé] father; 爷爷 yéye grandpa"
+  },
+  {
+    "jian": "龙",
+    "fan": "龍",
+    "desc": "[lóng] dragon; 恐龙 kǒnglóng dinosaur"
+  },
+  {
+    "jian": "错",
+    "fan": "錯",
+    "desc": "[cuò] (=错误 cuòwù) mistake; 不错 búcuò not bad, pretty good; 一点儿不错! yìdiǎnr búcuò! perfectly correct!"
+  },
+  {
+    "jian": "创",
+    "fan": "創",
+    "desc": "[chuàng] 创造 chuàngzào create\n[chuāng] 创伤 chuāngshāng trauma"
+  },
+  {
+    "jian": "树",
+    "fan": "樹",
+    "desc": "[shù] tree; 树林 shùlín woods; 树木 shùmù trees; 树干 shùgàn trunk"
+  },
+  {
+    "jian": "灵",
+    "fan": "靈",
+    "desc": "[líng] clever, spirit, soul, elf; 灵活 línghuó nimble, easy"
+  },
+  {
+    "jian": "职",
+    "fan": "職",
+    "desc": "[zhí] duty; 职工 zhígōng staff; 职业 zhíyè occupation"
+  },
+  {
+    "jian": "乡",
+    "fan": "鄉",
+    "desc": "[xiāng] countryside, home town"
+  },
+  {
+    "jian": "细",
+    "fan": "細",
+    "desc": "[xì] thin; 仔细 zǐxì careful; 细胞 xìbāo cell; 详细 xiángxì detailed"
+  },
+  {
+    "jian": "诉",
+    "fan": "訴",
+    "desc": "[sù] 告诉 gàosu tell; 诉讼 sùsòng lawsuit"
+  },
+  {
+    "jian": "态",
+    "fan": "態",
+    "desc": "[tài] form; 态度 tàidu manner; 状态 zhuàngtài state"
+  },
+  {
+    "jian": "笔",
+    "fan": "筆",
+    "desc": "[bǐ] writing implement; 毛笔 brush; 钢笔 pen; 铅笔 pencil"
+  },
+  {
+    "jian": "块",
+    "fan": "塊",
+    "desc": "[kuài] piece, lump, chunk, (=元 yuán) Chinese dollar"
+  },
+  {
+    "jian": "质",
+    "fan": "質",
+    "desc": "[zhì] (=物质 wùzhì) matter, substance; 质量 zhìliàng quality, mass"
+  },
+  {
+    "jian": "湾",
+    "fan": "灣",
+    "desc": "[wān] harbor; 台湾 Táiwān"
+  },
+  {
+    "jian": "韦",
+    "fan": "韋",
+    "desc": "[wéi] soft leather, <family name>"
+  },
+  {
+    "jian": "围",
+    "fan": "圍",
+    "desc": "[wéi] surround; 围棋 wéiqí Japanese \"go\""
+  },
+  {
+    "jian": "静",
+    "fan": "靜",
+    "desc": "[jìng] still, quiet; 静电 jìngdiàn static electricity"
+  },
+  {
+    "jian": "园",
+    "fan": "園",
+    "desc": "[yuán] (=花园 huāyuán) garden, (=公园 gōngyuán) park"
+  },
+  {
+    "jian": "辑",
+    "fan": "輯",
+    "desc": "[jí] 编辑 biānjí edit; 逻辑 luójí <loan> logic"
+  },
+  {
+    "jian": "够",
+    "fan": "夠",
+    "desc": "[gòu] enough; 能够 nénggòu be capable of"
+  },
+  {
+    "jian": "赛",
+    "fan": "賽",
+    "desc": "[sài] contest; 比赛 match, race"
+  },
+  {
+    "jian": "较",
+    "fan": "較",
+    "desc": "[jiào] relatively, quite; 比较 bǐjiào compare, relatively\n[jiǎo] (bǐjiǎo = bǐjiào)"
+  },
+  {
+    "jian": "楼",
+    "fan": "樓",
+    "desc": "[lóu] story, building; 大楼 mansion; 楼梯 lóutī stairs"
+  },
+  {
+    "jian": "孙",
+    "fan": "孫",
+    "desc": "[sūn] grandchild; 子孙 zǐsūn children and grandchildren, descendants; 孙悟空 Sūn Wùkōng monkey with supernatural powers in the nobel \"Journey to the West\"; 孙中山 Sūn Zhōngshān = 孙逸仙 Sūn Yixiān = Sun Yat-sen, leader of the Republican Revolution and the KMT"
+  },
+  {
+    "jian": "诗",
+    "fan": "詩",
+    "desc": "[shī] poem; 诗人 shīrén poet"
+  },
+  {
+    "jian": "敌",
+    "fan": "敵",
+    "desc": "[dí] (敌人 dírén) enemy; 敌军 enemy troops"
+  },
+  {
+    "jian": "试",
+    "fan": "試",
+    "desc": "[shì] try, test; 考试 kǎoshì test, quiz"
+  },
+  {
+    "jian": "谢",
+    "fan": "謝",
+    "desc": "[xiè] thank; 谢谢 xièxie thanks; 非常感谢"
+  },
+  {
+    "jian": "怀",
+    "fan": "懷",
+    "desc": "[huái] bosom, cherish; 怀疑 huáiyí suspect; 怀念 huáiniàn cherish memory"
+  },
+  {
+    "jian": "顾",
+    "fan": "顧",
+    "desc": "[gù] (=照顾 zhàogu) look after; 顾客 gùkè customer"
+  },
+  {
+    "jian": "验",
+    "fan": "驗",
+    "desc": "[yàn] (=经验 jīngyàn) experience"
+  },
+  {
+    "jian": "营",
+    "fan": "營",
+    "desc": "[yíng] camp; 营火 campfire; 营业 do business"
+  },
+  {
+    "jian": "养",
+    "fan": "養",
+    "desc": "[yǎng] raise, nourish; 营养 yíngyǎng nutrition"
+  },
+  {
+    "jian": "丽",
+    "fan": "麗",
+    "desc": "[lì] 美丽 měilì beautiful; 壮丽 majestic\n[Lí] Korea\n{Compare with 朋 péng friend and 册 cè book}"
+  },
+  {
+    "jian": "属",
+    "fan": "屬",
+    "desc": "[shǔ] belong to, be subordinate to, born in a specific year acoording to the Chinese calendar\n[zhǔ] enjoin"
+  },
+  {
+    "jian": "恶",
+    "fan": "惡",
+    "desc": "[è] evil\n[wù] (厌恶) hate\n[ě] (恶心) nauseous"
+  },
+  {
+    "jian": "维",
+    "fan": "維",
+    "desc": "[wéi] 纤维 xiānwéi fiber; 维护 wéihù safeguard; 思维 síwéi think"
+  },
+  {
+    "jian": "渐",
+    "fan": "漸",
+    "desc": "[jiàn] (=渐渐 jiànjiàn, =逐渐 zhújiàn) gradually\n[jiān] dip/soak in liquid"
+  },
+  {
+    "jian": "胜",
+    "fan": "勝",
+    "desc": "[shèng] (=胜利 shènglì) victory, triumph, win"
+  },
+  {
+    "jian": "异",
+    "fan": "異",
+    "desc": "[yì] different; 异常 yìcháng unusual"
+  },
+  {
+    "jian": "负",
+    "fan": "負",
+    "desc": "[fù] carry on shoulder, suffer, negative"
+  },
+  {
+    "jian": "银",
+    "fan": "銀",
+    "desc": "[yín] silver; 银行 yínháng bank"
+  },
+  {
+    "jian": "阵",
+    "fan": "陣",
+    "desc": "[zhèn] battle array, <classifier for phases, spells etc.>; 一阵风 yí zhèn fēng a short period of time"
+  },
+  {
+    "jian": "层",
+    "fan": "層",
+    "desc": "[céng] layer, level, storey"
+  },
+  {
+    "jian": "织",
+    "fan": "織",
+    "desc": "[zhī] weave, knit; 组织 zǔshī organize; 纺织 fǎngzhī spin and weave"
+  },
+  {
+    "jian": "药",
+    "fan": "藥",
+    "desc": "[yào] medicine, drug"
+  },
+  {
+    "jian": "馆",
+    "fan": "館",
+    "desc": "[guǎn] building; 饭馆 restaurant"
+  },
+  {
+    "jian": "习",
+    "fan": "習",
+    "desc": "[xí] 练习 liànxí practice; 学习 xuéxí study; 习惯 xíguàn habit"
+  },
+  {
+    "jian": "简",
+    "fan": "簡",
+    "desc": "[jiǎn] 简单 jiǎndān simple; 简体字 jiǎntǐzì simple form character"
+  },
+  {
+    "jian": "归",
+    "fan": "歸",
+    "desc": "[guī] return"
+  },
+  {
+    "jian": "换",
+    "fan": "換",
+    "desc": "[huàn] change, exchange"
+  },
+  {
+    "jian": "丝",
+    "fan": "絲",
+    "desc": "[sī] silk, thread"
+  },
+  {
+    "jian": "劳",
+    "fan": "勞",
+    "desc": "[láo] (=劳动 láodòng) labor\n[lào] encourage, console"
+  },
+  {
+    "jian": "妇",
+    "fan": "婦",
+    "desc": "[fù] (=妇女 fùnǚ) woman; 夫妇 fūfù married couple"
+  },
+  {
+    "jian": "评",
+    "fan": "評",
+    "desc": "[píng] criticize, comment, review"
+  },
+  {
+    "jian": "络",
+    "fan": "絡",
+    "desc": "[luò] net, twine\n[lào] 挂络 guàlào involvement, implication"
+  },
+  {
+    "jian": "环",
+    "fan": "環",
+    "desc": "[huán] ring; 环境 huánjìng environment, surroundings"
+  },
+  {
+    "jian": "礼",
+    "fan": "禮",
+    "desc": "[lǐ] ceremony; 婚礼 hūnlǐ wedding; 礼貌 lǐmào polite"
+  },
+  {
+    "jian": "压",
+    "fan": "壓",
+    "desc": "[yā] press, pressure\n[yà] 压根 yàgēn from the start, in the first place, altogether, entirely, totally, at all, simply"
+  },
+  {
+    "jian": "奖",
+    "fan": "獎",
+    "desc": "[jiǎng] prize, award; 奖金 bonus; 奖学金 scholarship"
+  },
+  {
+    "jian": "赶",
+    "fan": "趕",
+    "desc": "[gǎn] catch up"
+  },
+  {
+    "jian": "兰",
+    "fan": "蘭",
+    "desc": "[lán] 兰花 lánhuā orchid"
+  },
+  {
+    "jian": "录",
+    "fan": "錄",
+    "desc": "[lù] record; 记录 jìlù take notes; 录音机 tape recorder"
+  },
+  {
+    "jian": "画",
+    "fan": "畫",
+    "desc": "[huà] draw, picture"
+  },
+  {
+    "jian": "顿",
+    "fan": "頓",
+    "desc": "[dùn] to pause, meal"
+  },
+  {
+    "jian": "艺",
+    "fan": "藝",
+    "desc": "[yì] skill, (=艺术 yìshù) art; 文艺 wényì literature and art"
+  },
+  {
+    "jian": "亿",
+    "fan": "億",
+    "desc": "[yì] 100 million"
+  },
+  {
+    "jian": "继",
+    "fan": "繼",
+    "desc": "[jì] (=继续 jìxù) continue; 继承 jìchéng inherit"
+  },
+  {
+    "jian": "优",
+    "fan": "優",
+    "desc": "[yōu] excellent; 优良 fine; 优秀 outstanding; 优越 yōuyuè superior"
+  },
+  {
+    "jian": "险",
+    "fan": "險",
+    "desc": "[xiǎn] (危险 wēixiǎn) danger; 保险 bǎoxiǎn insurance"
+  },
+  {
+    "jian": "阶",
+    "fan": "階",
+    "desc": "[jiē] (=台阶) steps; 阶级 class; 军阶 rank; 阶段 phase"
+  },
+  {
+    "jian": "担",
+    "fan": "擔",
+    "desc": "[dān] carry on a shoulder pole\n[dàn] two buckets full, 50 kg."
+  },
+  {
+    "jian": "访",
+    "fan": "訪",
+    "desc": "[fǎng] (=访问 fǎngwèn) visit; 采访 gather material"
+  },
+  {
+    "jian": "讨",
+    "fan": "討",
+    "desc": "[tǎo] (=讨论 tǎolùn) discuss; 讨厌 tǎoyàn digusting\n{讨口彩 tǎokǒucǎi = 讨个吉利(话) tǎo ge jílì(huà) to ask for something as a token of good omen}"
+  },
+  {
+    "jian": "临",
+    "fan": "臨",
+    "desc": "[lín] overlook, be adjacent to; 临时 temporary"
+  },
+  {
+    "jian": "吴",
+    "fan": "吳",
+    "desc": "[Wú] <family name>, Wu Kingdom (222-280 A.D.)"
+  },
+  {
+    "jian": "摇",
+    "fan": "搖",
+    "desc": "[yáo] shake"
+  },
+  {
+    "jian": "练",
+    "fan": "練",
+    "desc": "[liàn] white silk, (=练习 liànxí) practice"
+  },
+  {
+    "jian": "构",
+    "fan": "構",
+    "desc": "[gòu] 结构 jiégòu structure; 构成 constitute; 构造"
+  },
+  {
+    "jian": "厂",
+    "fan": "廠",
+    "desc": "[chǎng] (=工厂 gōngchǎng) factory"
+  },
+  {
+    "jian": "协",
+    "fan": "協",
+    "desc": "[xié] 协作 xiézuò cooperate"
+  },
+  {
+    "jian": "挥",
+    "fan": "揮",
+    "desc": "[huī] wave, wield; command an army; 挥手 wave (one's hand)"
+  },
+  {
+    "jian": "齐",
+    "fan": "齊",
+    "desc": "[qí] 整齐 zhěngqí neat; 一齐 yìqí together\n[zhāi] (=斋)\n[zī] (=粢)"
+  },
+  {
+    "jian": "温",
+    "fan": "溫",
+    "desc": "[wēn] (=温暖 wēnnuǎn) warm; 温度 wēndù temperature"
+  },
+  {
+    "jian": "纸",
+    "fan": "紙",
+    "desc": "[zhǐ] paper; 报纸 bàozhǐ newspaper"
+  },
+  {
+    "jian": "顶",
+    "fan": "頂",
+    "desc": "[dǐng] top, <classifier for hats etc.>; 一顶帽子 yì dǐng màozi a hat"
+  },
+  {
+    "jian": "寻",
+    "fan": "尋",
+    "desc": "[xún] (=寻找 xúnzhǎo) seek\n[xín] 寻思 xínsi"
+  },
+  {
+    "jian": "宁",
+    "fan": "寧",
+    "desc": "[nìng] (=宁愿 nìngyuàn, 宁可 jìngkě) prefer, rather\n[níng] 宁静 tranquil"
+  },
+  {
+    "jian": "卖",
+    "fan": "賣",
+    "desc": "[mài] sell; 苹果怎么卖? Píngguǒ zěnme mài? How much are the apples?"
+  },
+  {
+    "jian": "顺",
+    "fan": "順",
+    "desc": "[shùn] along, in the same direction as, obey, suitable"
+  },
+  {
+    "jian": "梦",
+    "fan": "夢",
+    "desc": "[mèng] dream"
+  },
+  {
+    "jian": "剧",
+    "fan": "劇",
+    "desc": "[jù] drama, play, opera; 剧烈 jùliè severe"
+  },
+  {
+    "jian": "坚",
+    "fan": "堅",
+    "desc": "[jiān] hard, solid, firmly; 坚持 persist; 坚定 firm"
+  },
+  {
+    "jian": "杂",
+    "fan": "雜",
+    "desc": "[zá] mixed; 复杂 fùzá complicated; 杂志 zázhì magazine\n[zā] 拉里拉杂 lālilāzā rambling"
+  },
+  {
+    "jian": "贵",
+    "fan": "貴",
+    "desc": "[guì] expensive, valuable"
+  },
+  {
+    "jian": "旧",
+    "fan": "舊",
+    "desc": "[jiù] old (not new) (compare with 老 lǎo old, not young; 新 xīn new)"
+  },
+  {
+    "jian": "积",
+    "fan": "積",
+    "desc": "[jī] accumulate; 积极 jījí positive; 面积 area"
+  },
+  {
+    "jian": "县",
+    "fan": "縣",
+    "desc": "[xiàn] county; 县长 xiànzhǎng county magistrate"
+  },
+  {
+    "jian": "罢",
+    "fan": "罷",
+    "desc": "[bà] stop; 罢工 strike; 罢了 bàle that's all\n[pí] (=疲) tired, weary, exhausted"
+  },
+  {
+    "jian": "扬",
+    "fan": "揚",
+    "desc": "[yáng] raise; 发扬 fāyáng develop, promote"
+  },
+  {
+    "jian": "脱",
+    "fan": "脫",
+    "desc": "[tuō] take off; 脱离 tuōlí break away"
+  },
+  {
+    "jian": "弹",
+    "fan": "彈",
+    "desc": "[dàn] 炸弹 bomb; 子弹 bullet\n[tán] 弹吉他 play guitar"
+  },
+  {
+    "jian": "邓",
+    "fan": "鄧",
+    "desc": "[Dèng] <family name>"
+  },
+  {
+    "jian": "鲜",
+    "fan": "鮮",
+    "desc": "[xiān] fresh\n[xiǎn] few, rare; 朝鲜 Korea"
+  },
+  {
+    "jian": "毕",
+    "fan": "畢",
+    "desc": "[bì] 毕业 bìyè graduate; 毕竟 bìjìng after all"
+  },
+  {
+    "jian": "欧",
+    "fan": "歐",
+    "desc": "[ōu] 欧洲 ōuzhōu Europe; 欧姆 ōumǔ ohm"
+  },
+  {
+    "jian": "岛",
+    "fan": "島",
+    "desc": "[dǎo] island"
+  },
+  {
+    "jian": "载",
+    "fan": "載",
+    "desc": "[zài] carry, be loaded with\n[zǎi] 记载 put down in writing"
+  },
+  {
+    "jian": "败",
+    "fan": "敗",
+    "desc": "[bài] (失败 shībài) lose, be defeated; 腐败 fǔbài corrupt"
+  },
+  {
+    "jian": "枪",
+    "fan": "槍",
+    "desc": "[qiāng] gun\n[chēng] 欃枪 chánchēng comet"
+  },
+  {
+    "jian": "适",
+    "fan": "適",
+    "desc": "[shì] 合适 héshì suitable, appropriate\n[dí] 适从 dícóng follow, go to"
+  },
+  {
+    "jian": "虚",
+    "fan": "虛",
+    "desc": "[xū] empty, void; 谦虚 qiānxū modest; 虚心 xūxīn open-minded; 空虚 kōngxū hollow"
+  },
+  {
+    "jian": "预",
+    "fan": "預",
+    "desc": "[yù] 预备 prepare; 预先 beforehand; 预报 forecast"
+  },
+  {
+    "jian": "纷",
+    "fan": "紛",
+    "desc": "[fēn] 纷纷 one after another; 纠纷 jiūfēn dispute; 纷乱"
+  },
+  {
+    "jian": "销",
+    "fan": "銷",
+    "desc": "[xiāo] melt (metal), remove, sell; 脱销 sold out"
+  },
+  {
+    "jian": "鱼",
+    "fan": "魚",
+    "desc": "[yú] fish; 金鱼 jīnyú goldfish; 鲨鱼 shāyú shark"
+  },
+  {
+    "jian": "盘",
+    "fan": "盤",
+    "desc": "[pán] disk, tray; 算盘 suànpán abacus; 棋盘 chessboard"
+  },
+  {
+    "jian": "讯",
+    "fan": "訊",
+    "desc": "[xùn] interrogate; 通讯 tōngxùn news report"
+  },
+  {
+    "jian": "赵",
+    "fan": "趙",
+    "desc": "[Zhào] <family name>"
+  },
+  {
+    "jian": "灯",
+    "fan": "燈",
+    "desc": "[dēng] lamp"
+  },
+  {
+    "jian": "状",
+    "fan": "狀",
+    "desc": "[zhuàng] (=状态 zhuàngtài, =状况 zhuàngkuàng) condition, state of affairs"
+  },
+  {
+    "jian": "订",
+    "fan": "訂",
+    "desc": "[dìng] conclude (compare with 定 dìng decide)"
+  },
+  {
+    "jian": "镇",
+    "fan": "鎮",
+    "desc": "[zhèn] town, press down, calm, cool"
+  },
+  {
+    "jian": "骂",
+    "fan": "罵",
+    "desc": "[mà] curse; 妈妈骂马吗? Māma mà mǎ ma? Does mama curse the horse?"
+  },
+  {
+    "jian": "输",
+    "fan": "輸",
+    "desc": "[shū] transport, lose (compare with 赢 yíng win)"
+  },
+  {
+    "jian": "词",
+    "fan": "詞",
+    "desc": "[cí] word; 词典 cídiǎn dictionary; 动词 dòngxí verb; 词汇 cíhuì vocabulary"
+  },
+  {
+    "jian": "泪",
+    "fan": "淚",
+    "desc": "[lèi] (眼泪, 泪水) tear; 泪珠 teardrop"
+  },
+  {
+    "jian": "财",
+    "fan": "財",
+    "desc": "[cái] wealth; 发财 fācài get rich"
+  },
+  {
+    "jian": "审",
+    "fan": "審",
+    "desc": "[shěn] 审判 shěnpàn bring to trial; 审问 interrogate"
+  },
+  {
+    "jian": "墙",
+    "fan": "牆",
+    "desc": "[qiáng] (=墙壁 qiángbì) wall"
+  },
+  {
+    "jian": "圣",
+    "fan": "聖",
+    "desc": "[shèng] holy; 圣人 sage, saint; 圣诞节 Shèngdànjié Christmas"
+  },
+  {
+    "jian": "跃",
+    "fan": "躍",
+    "desc": "[yuè] leap"
+  },
+  {
+    "jian": "执",
+    "fan": "執",
+    "desc": "[zhí] hold in hand; 执行 zhíxíng carry out"
+  },
+  {
+    "jian": "晓",
+    "fan": "曉",
+    "desc": "[xiǎo] dawn; (晓得 xiǎode) know"
+  },
+  {
+    "jian": "桥",
+    "fan": "橋",
+    "desc": "[qiáo] bridge"
+  },
+  {
+    "jian": "辈",
+    "fan": "輩",
+    "desc": "[bèi] generation; 先辈 older generation, ancestors"
+  },
+  {
+    "jian": "闪",
+    "fan": "閃",
+    "desc": "[shǎn] (闪开) get out of the way, flash; 闪电 lightning"
+  },
+  {
+    "jian": "隐",
+    "fan": "隱",
+    "desc": "[yǐn] hidden; 隐约 yǐnyuē faint, indistinct"
+  },
+  {
+    "jian": "劲",
+    "fan": "勁",
+    "desc": "[jìn] strength, energy, spirit\n[jìng] 强劲"
+  },
+  {
+    "jian": "闹",
+    "fan": "鬧",
+    "desc": "[nào] (热闹) noisy; 闹钟 alarm clock"
+  },
+  {
+    "jian": "监",
+    "fan": "監",
+    "desc": "[jiān] 监狱 prison; 监督 supervise\n[jiàn] eunuch"
+  },
+  {
+    "jian": "厅",
+    "fan": "廳",
+    "desc": "[tīng] hall; 餐厅 cāntīng dining room"
+  },
+  {
+    "jian": "库",
+    "fan": "庫",
+    "desc": "[kù] warehouse; 数据库 shùjùkù database"
+  },
+  {
+    "jian": "庆",
+    "fan": "慶",
+    "desc": "[qìng] 庆祝 qìngzhù celebrate; 庆贺 qìnghè congratulate; 庆幸 qìngxìng rejoice"
+  },
+  {
+    "jian": "绿",
+    "fan": "綠",
+    "desc": "[lǜ] (绿色 lǜsè) green\n[lù] (in some place names)"
+  },
+  {
+    "jian": "额",
+    "fan": "額",
+    "desc": "[é] (前额) forehead; 定额 quota"
+  },
+  {
+    "jian": "误",
+    "fan": "誤",
+    "desc": "[wù] (=错误 cuòwù) mistake"
+  },
+  {
+    "jian": "纳",
+    "fan": "納",
+    "desc": "[nà] receive, accept, enjoy, pay, sew"
+  },
+  {
+    "jian": "遗",
+    "fan": "遺",
+    "desc": "[yí] 遗传 yíchuán inherit; 遗憾 yíhàn regret\n[wèi] give"
+  },
+  {
+    "jian": "鲁",
+    "fan": "魯",
+    "desc": "[lǔ] <family name>; (鲁莽 lǔmǎng) rude; dull"
+  },
+  {
+    "jian": "货",
+    "fan": "貨",
+    "desc": "[huò] (=货物 huòwù) goods; 货币 huòbì money, currency"
+  },
+  {
+    "jian": "缓",
+    "fan": "緩",
+    "desc": "[huǎn] (缓慢 huǎnmàn) slow"
+  },
+  {
+    "jian": "伟",
+    "fan": "偉",
+    "desc": "[wěi] (伟大) great, mighty; 宏伟 hóngwěi, 雄伟 xióngwěi grand"
+  },
+  {
+    "jian": "庄",
+    "fan": "莊",
+    "desc": "[zhuāng] village; 庄稼 zhuāngjia crops; 庄严 solemn"
+  },
+  {
+    "jian": "烧",
+    "fan": "燒",
+    "desc": "[shāo] roast, cook, burn (compare with 炒 chǎo stir-fry)"
+  },
+  {
+    "jian": "抢",
+    "fan": "搶",
+    "desc": "[qiǎng] rob; snatch; scrape\n[qiāng] 呼天抢地"
+  },
+  {
+    "jian": "戏",
+    "fan": "戲",
+    "desc": "[xì] (戏剧 xìjù) drama, play; 游戏 yóuxì game"
+  },
+  {
+    "jian": "谓",
+    "fan": "謂",
+    "desc": "[wèi] call; 所谓 so-called"
+  },
+  {
+    "jian": "课",
+    "fan": "課",
+    "desc": "[kè] lesson; 课本 kèběn textbook"
+  },
+  {
+    "jian": "邮",
+    "fan": "郵",
+    "desc": "[yóu] 邮局 yóujú post office; 邮票 yóupiào stamp"
+  },
+  {
+    "jian": "荣",
+    "fan": "榮",
+    "desc": "[róng] (=光荣 guāngróng, =荣誉 róngyù) glory, honor"
+  },
+  {
+    "jian": "拥",
+    "fan": "擁",
+    "desc": "[yōng] embrace, crowd; 拥护 yōnghù support; 拥挤 yōngjǐ crowded"
+  },
+  {
+    "jian": "献",
+    "fan": "獻",
+    "desc": "[xiàn] donate; 贡献 gòngxiàn contribution"
+  },
+  {
+    "jian": "叹",
+    "fan": "嘆",
+    "desc": "[tàn] sigh"
+  },
+  {
+    "jian": "阴",
+    "fan": "陰",
+    "desc": "[yīn] opposite of 阳 yáng; 阴沉, 阴天 cloudy; 阴暗 gloomy"
+  },
+  {
+    "jian": "横",
+    "fan": "橫",
+    "desc": "[héng] horizontal\n[hèng] perverse"
+  },
+  {
+    "jian": "签",
+    "fan": "簽",
+    "desc": "[qiān] 签订 qiāndìng conclude and sign (treaty, etc); 签名 qiānmíng signature"
+  },
+  {
+    "jian": "轮",
+    "fan": "輪",
+    "desc": "[lún] wheel"
+  },
+  {
+    "jian": "训",
+    "fan": "訓",
+    "desc": "[xùn] lesson"
+  },
+  {
+    "jian": "圆",
+    "fan": "圓",
+    "desc": "[yuán] round, circle; (sometimes used for 元 yuán dollar)"
+  },
+  {
+    "jian": "释",
+    "fan": "釋",
+    "desc": "[shì] 解释 jiěshì explain; 释放 shìfàng release"
+  },
+  {
+    "jian": "诸",
+    "fan": "諸",
+    "desc": "[zhū] all, various, <family name>"
+  },
+  {
+    "jian": "夺",
+    "fan": "奪",
+    "desc": "[duó] force one's way; 夺取 seize, capture; 争夺 fight for"
+  },
+  {
+    "jian": "测",
+    "fan": "測",
+    "desc": "[cè] (测量 cèliáng) survey, measure; 观测 guāncè observe"
+  },
+  {
+    "jian": "盖",
+    "fan": "蓋",
+    "desc": "[gài] cover, shell; 盖子 lid"
+  },
+  {
+    "jian": "阅",
+    "fan": "閱",
+    "desc": "[yuè] experience, pass through, review; (阅读 yuèdú) read"
+  },
+  {
+    "jian": "购",
+    "fan": "購",
+    "desc": "[gòu] (购买 gòumǎi) purchase"
+  },
+  {
+    "jian": "纵",
+    "fan": "縱",
+    "desc": "[zòng] longitudinally; 操纵 cāozòng operate; 纵对 zòngduì column, file"
+  },
+  {
+    "jian": "挂",
+    "fan": "掛",
+    "desc": "[guà] hang, put up"
+  },
+  {
+    "jian": "择",
+    "fan": "擇",
+    "desc": "[zé] (=选择 xuǎnzé) choose\n[zhái] choose"
+  },
+  {
+    "jian": "誉",
+    "fan": "譽",
+    "desc": "[yù] praise; 荣誉 róngyù honor; 名誉 míngyù fame"
+  },
+  {
+    "jian": "检",
+    "fan": "檢",
+    "desc": "[jiǎn] (=检查 jiǎnchá) inspect"
+  },
+  {
+    "jian": "宫",
+    "fan": "宮",
+    "desc": "[gōng] palace, temple, <family name>; 子宫 zǐgōng womb"
+  },
+  {
+    "jian": "仪",
+    "fan": "儀",
+    "desc": "[yí] ceremony, rite, gift, (=仪表 yíbiǎo) appearance, bearing, (=仪器 yíqì) instrument, apparatus"
+  },
+  {
+    "jian": "摆",
+    "fan": "擺",
+    "desc": "[bǎi] put, arrange, sway, wave; 摇摆舞 yáobǎiwǔ \"shake-sway-dance\", waggle dance (of bees), rock 'n' roll"
+  },
+  {
+    "jian": "奥",
+    "fan": "奧",
+    "desc": "[ào] 奥秘 àomì secret, mystery; 奥妙 àomiào profound, secret"
+  },
+  {
+    "jian": "灭",
+    "fan": "滅",
+    "desc": "[miè] extinguish; 消灭 eliminate; perish; 歼灭 annihilate"
+  },
+  {
+    "jian": "虑",
+    "fan": "慮",
+    "desc": "[lǜ] (考虑 kǎolǜ) consider; 忧虑 yōulǜ worry about"
+  },
+  {
+    "jian": "宽",
+    "fan": "寬",
+    "desc": "[kuān] wide, broad, extend, relax"
+  },
+  {
+    "jian": "绍",
+    "fan": "紹",
+    "desc": "[shào] 介绍 jièshào introduce"
+  },
+  {
+    "jian": "补",
+    "fan": "補",
+    "desc": "[bǔ] mend"
+  },
+  {
+    "jian": "赞",
+    "fan": "贊",
+    "desc": "[zàn] 赞成 approve of; 称赞 praise"
+  },
+  {
+    "jian": "稳",
+    "fan": "穩",
+    "desc": "[wěn] (稳定 wěndìng) stable, steady; 稳当 wěndang reliable"
+  },
+  {
+    "jian": "厉",
+    "fan": "厲",
+    "desc": "[lì] 厉害 lìhai terrible, formidable, <family name>\n[lài] name of an ancient country\n{Compare with 历 lì experience}"
+  },
+  {
+    "jian": "届",
+    "fan": "屆",
+    "desc": "[jiè] to fall due, <classifier for year of graduation, regular sessions, meetings, etc.>"
+  },
+  {
+    "jian": "迹",
+    "fan": "跡",
+    "desc": "[jì] (=痕迹 hénjì) mark, trace, vestige; 奇迹 qíjì miracle"
+  },
+  {
+    "jian": "鸡",
+    "fan": "雞",
+    "desc": "[jī] chicken; 宫保鸡丁 gōngbǎo jīdīng spicy diced chicken"
+  },
+  {
+    "jian": "忆",
+    "fan": "憶",
+    "desc": "[yì] (记忆 jìyì, 回忆 huíyì) remember, recall; memory"
+  },
+  {
+    "jian": "诚",
+    "fan": "誠",
+    "desc": "[chéng] (诚实) honest"
+  },
+  {
+    "jian": "减",
+    "fan": "減",
+    "desc": "[jiǎn] subtract; 减少 jiǎnshǎo decrease"
+  },
+  {
+    "jian": "针",
+    "fan": "針",
+    "desc": "[zhēn] needle; 方针 policy; 针刺 zhēncì acupuncture"
+  },
+  {
+    "jian": "竞",
+    "fan": "競",
+    "desc": "[jìng] 竞争 jìngzhēng compete; 竞赛 contest"
+  },
+  {
+    "jian": "伦",
+    "fan": "倫",
+    "desc": "[lún] 伦理 lúnlǐ ethics"
+  },
+  {
+    "jian": "钢",
+    "fan": "鋼",
+    "desc": "[gāng] steel; 钢笔 fountain pen; 钢琴 piano\n[gàng] sharpen"
+  },
+  {
+    "jian": "诺",
+    "fan": "諾",
+    "desc": "[nuò] 诺言 nuòyán a promise"
+  },
+  {
+    "jian": "残",
+    "fan": "殘",
+    "desc": "[cán] injure, barbarous, incomplete, remnant"
+  },
+  {
+    "jian": "灾",
+    "fan": "災",
+    "desc": "[zāi] (灾难 zāinàn, 灾害 zāihài) disaster"
+  },
+  {
+    "jian": "乔",
+    "fan": "喬",
+    "desc": "[qiáo] <family name>; 乔木 qiáomù arbor"
+  },
+  {
+    "jian": "粮",
+    "fan": "糧",
+    "desc": "[liáng] (粮食 liángshi) grain, food"
+  },
+  {
+    "jian": "译",
+    "fan": "譯",
+    "desc": "[yì] (翻译 fānyì) translate"
+  },
+  {
+    "jian": "谋",
+    "fan": "謀",
+    "desc": "[móu] scheme; 阴谋 conspiracy"
+  },
+  {
+    "jian": "础",
+    "fan": "礎",
+    "desc": "[chǔ] 基础 jīchǔ foundation, base, basis; 础石 chǔshí plinth"
+  },
+  {
+    "jian": "损",
+    "fan": "損",
+    "desc": "[sǔn] decrease; damage; 损失 sǔnshī lose, loss"
+  },
+  {
+    "jian": "辆",
+    "fan": "輛",
+    "desc": "[liàng] 车辆 car; 两辆车 liǎng liàng chē two cars"
+  },
+  {
+    "jian": "净",
+    "fan": "凈",
+    "desc": "[jìng] clean, complete; only; 干净 gānjìng clean"
+  },
+  {
+    "jian": "荡",
+    "fan": "蕩",
+    "desc": "[dàng] swing, sway; loaf about; 扫荡 wipe out; 震荡 shake"
+  },
+  {
+    "jian": "奋",
+    "fan": "奮",
+    "desc": "[fèn] 奋斗 fèndòu struggle; 兴奋 xīngfèn excited"
+  },
+  {
+    "jian": "胆",
+    "fan": "膽",
+    "desc": "[dǎn] gallbladder, guts, bravery, internal parts"
+  },
+  {
+    "jian": "弃",
+    "fan": "棄",
+    "desc": "[qì] (放弃 fàngqì, 抛弃 pāoqì) abandon, give up"
+  },
+  {
+    "jian": "烦",
+    "fan": "煩",
+    "desc": "[fán] be vexed; 麻烦 máfan trouble, bother; 不耐烦 bú nàifán impatient"
+  },
+  {
+    "jian": "犹",
+    "fan": "猶",
+    "desc": "[yóu] still, yet; 犹豫 yóuyù hesitate; 犹如 yóurú as if"
+  },
+  {
+    "jian": "税",
+    "fan": "稅",
+    "desc": "[shuì] tax"
+  },
+  {
+    "jian": "锋",
+    "fan": "鋒",
+    "desc": "[fēng] 锋利 sharp; 冲锋 charge, assault; 先锋 vanguard"
+  },
+  {
+    "jian": "遥",
+    "fan": "遙",
+    "desc": "[yáo] distant, remote; long"
+  },
+  {
+    "jian": "惯",
+    "fan": "慣",
+    "desc": "[guàn] be used to; 习惯 xíguàn be used to, habit, custom"
+  },
+  {
+    "jian": "凭",
+    "fan": "憑",
+    "desc": "[píng] lean on, based on, (= 不论 búlùn) no matter"
+  },
+  {
+    "jian": "币",
+    "fan": "幣",
+    "desc": "[bì] money, currency; 硬币 coin; 人民币 rénmínbì RMB."
+  },
+  {
+    "jian": "启",
+    "fan": "啟",
+    "desc": "[qǐ] open; start; enlighten; 启发 arouse, inspire"
+  },
+  {
+    "jian": "码",
+    "fan": "碼",
+    "desc": "[mǎ] <classifier for cloth, happenings, etc.>; 两码事 liǎng mǎ shì two entirely differeint things/matters; 码头 mǎtou wharf, dock; 号码 hàomǎ (serial) number, code"
+  },
+  {
+    "jian": "穷",
+    "fan": "窮",
+    "desc": "[qióng] poor; 无穷 wúqióng infinite"
+  },
+  {
+    "jian": "颇",
+    "fan": "頗",
+    "desc": "[pō] quite, rather"
+  },
+  {
+    "jian": "倾",
+    "fan": "傾",
+    "desc": "[qīng] lean; 倾向 tendency, prefer; 倾斜 slant"
+  },
+  {
+    "jian": "韩",
+    "fan": "韓",
+    "desc": "[Hán] <family name>; (old name for Korea)"
+  },
+  {
+    "jian": "贸",
+    "fan": "貿",
+    "desc": "[mào] 贸易 màoyì trade"
+  },
+  {
+    "jian": "飘",
+    "fan": "飄",
+    "desc": "[piāo] float in the air, flutter; 飘扬 flutter, wave"
+  },
+  {
+    "jian": "侧",
+    "fan": "側",
+    "desc": "[cè] side\n[zhāi] 侧歪 zhāiwai slant"
+  },
+  {
+    "jian": "赏",
+    "fan": "賞",
+    "desc": "[shǎng] reward, admire; 欣赏 xīnshǎng enjoy, appreciate"
+  },
+  {
+    "jian": "纯",
+    "fan": "純",
+    "desc": "[chún] (纯洁 chúnjié) pure; (单纯 dānchún) simple"
+  },
+  {
+    "jian": "闭",
+    "fan": "閉",
+    "desc": "[bì] shut"
+  },
+  {
+    "jian": "凉",
+    "fan": "涼",
+    "desc": "[liáng] cool, cold\n[liàng] make cool"
+  },
+  {
+    "jian": "扫",
+    "fan": "掃",
+    "desc": "[sǎo] sweep; 打扫 dǎsǎo clean up\n[sào] 扫帚 sàozhou broom"
+  },
+  {
+    "jian": "贴",
+    "fan": "貼",
+    "desc": "[tiē] stick, paste, glue, stay close to"
+  },
+  {
+    "jian": "滚",
+    "fan": "滾",
+    "desc": "[gǔn] roll, boil"
+  },
+  {
+    "jian": "缘",
+    "fan": "緣",
+    "desc": "[yuán] 缘故 cause, reason; 边缘 edge; 绝缘 insulate"
+  },
+  {
+    "jian": "贝",
+    "fan": "貝",
+    "desc": "[bèi] shellfish; cowrie; (money); 贝壳 bèiké shell\n{Compare with 见 jiàn see}"
+  },
+  {
+    "jian": "润",
+    "fan": "潤",
+    "desc": "[rùn] 湿润 shīrùn moist; 利润 lìrùn profit; 润滑 rùnhuá lubricate"
+  },
+  {
+    "jian": "扩",
+    "fan": "擴",
+    "desc": "[kuò] 扩大 kuòdà enlarge, expand"
+  },
+  {
+    "jian": "栏",
+    "fan": "欄",
+    "desc": "[lán] fence, railing"
+  },
+  {
+    "jian": "吓",
+    "fan": "嚇",
+    "desc": "[xià] frighten, scare\n[hè] (=恐吓 kǒnghè) threaten, <interj.>"
+  },
+  {
+    "jian": "俩",
+    "fan": "倆",
+    "desc": "[liǎ] two, both; 我们俩 wǒmen liǎ the two of us\n[liǎng] 伎俩 jìliǎng trick, intrigue, maneuver, skill, dexterity, craft"
+  },
+  {
+    "jian": "蓝",
+    "fan": "藍",
+    "desc": "[lán] (蓝色) blue"
+  },
+  {
+    "jian": "闲",
+    "fan": "閑",
+    "desc": "[xián] idle, free time; 闲话 digression, complaint"
+  },
+  {
+    "jian": "镜",
+    "fan": "鏡",
+    "desc": "[jìng] (=镜子 jìngzi) mirror, lens; 眼镜 yǎnjìng glasses"
+  },
+  {
+    "jian": "骑",
+    "fan": "騎",
+    "desc": "[qí] ride (horse/bike)\n[jì] 乘骑 chéngjì saddle horse; rider"
+  },
+  {
+    "jian": "颜",
+    "fan": "顏",
+    "desc": "[yán] 颜色 yánsè colour; 颜面 yánmiàn face"
+  },
+  {
+    "jian": "贫",
+    "fan": "貧",
+    "desc": "[pín] (=贫苦 pínkù, =贫穷 píngqióng) poor"
+  },
+  {
+    "jian": "驻",
+    "fan": "駐",
+    "desc": "[zhù] stay, halt, be stationed"
+  },
+  {
+    "jian": "杰",
+    "fan": "傑",
+    "desc": "[jié] 杰出 outstanding; 杰作 masterpiece"
+  },
+  {
+    "jian": "扑",
+    "fan": "撲",
+    "desc": "[pū] pounce on; flap wings; 扑灭 pūmiè extinguish; 扑克 pūkè <loan> Poker"
+  },
+  {
+    "jian": "壮",
+    "fan": "壯",
+    "desc": "[zhuàng] robust, magnificent; 壮丽 majestic; 壮族"
+  },
+  {
+    "jian": "萨",
+    "fan": "薩",
+    "desc": "[sà] 菩萨 púsà bodhisattva, benevolent being, <family name>"
+  },
+  {
+    "jian": "忧",
+    "fan": "憂",
+    "desc": "[yōu] worry, grieve; 忧郁 yōuyù sad; 忧虑 worry about"
+  },
+  {
+    "jian": "狱",
+    "fan": "獄",
+    "desc": "[yù] lawsuit; (监狱 jiānyù) prison, jail"
+  },
+  {
+    "jian": "凤",
+    "fan": "鳳",
+    "desc": "[fèng] male phoenix (fabulous bird of good omen)"
+  },
+  {
+    "jian": "触",
+    "fan": "觸",
+    "desc": "[chù] touch; 接触 jiēchù get in touch; 触角 antenna"
+  },
+  {
+    "jian": "恋",
+    "fan": "戀",
+    "desc": "[liàn] 恋爱 love (as in love affair)"
+  },
+  {
+    "jian": "岂",
+    "fan": "豈",
+    "desc": "[qǐ] (rhetorical adverb); 岂有此理 qǐyǒucǐlǐ What kind of reasoning is that?, Nonsence!"
+  },
+  {
+    "jian": "侠",
+    "fan": "俠",
+    "desc": "[xiá] 侠客 xiákè chivalrous warrior; 侠义 chivalrous"
+  },
+  {
+    "jian": "迟",
+    "fan": "遲",
+    "desc": "[chí] tardy; 迟到 arrive late; 迟疑 hesitate; 推迟 put off\n[zhì] 迟旦 zhìdàn dawn, daybreak"
+  },
+  {
+    "jian": "辉",
+    "fan": "輝",
+    "desc": "[huī] shine; 光辉 radiance, glory; 辉煌 huīhuáng brilliant"
+  },
+  {
+    "jian": "缩",
+    "fan": "縮",
+    "desc": "[suō] shrink"
+  },
+  {
+    "jian": "萧",
+    "fan": "蕭",
+    "desc": "[xiāo] desolate"
+  },
+  {
+    "jian": "辞",
+    "fan": "辭",
+    "desc": "[cí] take leave; diction, poetry, language"
+  },
+  {
+    "jian": "龄",
+    "fan": "齡",
+    "desc": "[líng] (年龄) age; duration"
+  },
+  {
+    "jian": "径",
+    "fan": "徑",
+    "desc": "[jìng] path, way; (直径 zhíjìng) diameter; 途径 tújìng channel, way, through"
+  },
+  {
+    "jian": "赖",
+    "fan": "賴",
+    "desc": "[lài] rely; hang around; blame falsely; deny error"
+  },
+  {
+    "jian": "愤",
+    "fan": "憤",
+    "desc": "[fèn] (=气愤 qìfèn, =愤怒 fènnù) angry"
+  },
+  {
+    "jian": "询",
+    "fan": "詢",
+    "desc": "[xún] 询问 xúnwèn ask about, inquire"
+  },
+  {
+    "jian": "惨",
+    "fan": "慘",
+    "desc": "[cǎn] tragic; savage"
+  },
+  {
+    "jian": "麦",
+    "fan": "麥",
+    "desc": "[mài] wheat, etc; 麦片 màipiàn oatmeal; 麦克风 màikèfēng <loan> microphone"
+  },
+  {
+    "jian": "腾",
+    "fan": "騰",
+    "desc": "[téng] jump, gallop, vacate; 沸腾 boiling\n[tēng] thump"
+  },
+  {
+    "jian": "乌",
+    "fan": "烏",
+    "desc": "[wū] (=乌鸦 wūyā) crow, (=乌黑 wūhēi) black; 乌龟 wūguī tortoise\n{Compare with 马 mǎ horse and 鸟 niǎo bird}"
+  },
+  {
+    "jian": "岗",
+    "fan": "崗",
+    "desc": "[gǎng] mound, sentry\n[gāng] 花岗石 huāgāngshí granite\n[gàng] 岗口 gànkǒu delicious sweet"
+  },
+  {
+    "jian": "铺",
+    "fan": "鋪",
+    "desc": "[pū] spread, unfold; pave\n[pù] shop, store; plank bed; 卧铺"
+  },
+  {
+    "jian": "挡",
+    "fan": "擋",
+    "desc": "[dǎng] ward off, block, gear (of car)\n[dàng] 摒挡 bìngdàng arrange, get ready"
+  },
+  {
+    "jian": "帐",
+    "fan": "帳",
+    "desc": "[zhàng] curtain; 蚊帐 mosquito net; 帐篷 tent; account"
+  },
+  {
+    "jian": "猪",
+    "fan": "豬",
+    "desc": "[zhū] pig; 猪年 zhūnián the year of the pig = the 12th year"
+  },
+  {
+    "jian": "劝",
+    "fan": "勸",
+    "desc": "[quàn] advise"
+  },
+  {
+    "jian": "筑",
+    "fan": "築",
+    "desc": "[zhù] build, construct; 建筑学 architecture"
+  },
+  {
+    "jian": "挤",
+    "fan": "擠",
+    "desc": "[jǐ] squeeze; crowd; push, jostle; 拥挤 yōngjǐ crowded"
+  },
+  {
+    "jian": "洁",
+    "fan": "潔",
+    "desc": "[jié] (=纯洁 chúnjié) pure, (=清洁 qīngjié) clean, sanitay; 洁白 jiébái pure white, spotless"
+  },
+  {
+    "jian": "郑",
+    "fan": "鄭",
+    "desc": "[zhèng] <family name>; 郑重 zhèngzhòng serious, solemn"
+  },
+  {
+    "jian": "鸣",
+    "fan": "鳴",
+    "desc": "[míng] cry of birds, animals, insects; ring, sound; express"
+  },
+  {
+    "jian": "颗",
+    "fan": "顆",
+    "desc": "[kē] grain, small round object, <classifier for small round things>; 一颗珠子 yì kē zhūzi one pearl"
+  },
+  {
+    "jian": "丧",
+    "fan": "喪",
+    "desc": "[sàng] lose (by death), lose (sth. important); 丧失 sàngshī forfeit\n[sāng] mourning; 丧事 sāngshì funeral arrangements"
+  },
+  {
+    "jian": "烂",
+    "fan": "爛",
+    "desc": "[làn] messy; 灿烂 cànlàn splendid\n[lān]"
+  },
+  {
+    "jian": "骗",
+    "fan": "騙",
+    "desc": "[piàn] (欺骗) deceive; cheat, swindle; 骗局 hoax; 骗子 swindler"
+  },
+  {
+    "jian": "页",
+    "fan": "頁",
+    "desc": "[yè] page"
+  },
+  {
+    "jian": "尸",
+    "fan": "屍",
+    "desc": "[shī] corpse, 尸体 shītǐ dead body"
+  },
+  {
+    "jian": "疗",
+    "fan": "療",
+    "desc": "[liáo] treat, cure; 疗法 therapy"
+  },
+  {
+    "jian": "尘",
+    "fan": "塵",
+    "desc": "[chén] (灰尘 huīchén) dust"
+  },
+  {
+    "jian": "饮",
+    "fan": "飲",
+    "desc": "[yǐn] drink\n[yìn] give animals water to drink"
+  },
+  {
+    "jian": "宾",
+    "fan": "賓",
+    "desc": "[bīn] guest; 宾馆 bīnguǎn hotel\n{Compare with 兵 bīng soldier}"
+  },
+  {
+    "jian": "绪",
+    "fan": "緒",
+    "desc": "[xù] 情绪 qíngxù mood, depression; 头绪 tóuxù lead, clue"
+  },
+  {
+    "jian": "贼",
+    "fan": "賊",
+    "desc": "[zéi] thief"
+  },
+  {
+    "jian": "废",
+    "fan": "廢",
+    "desc": "[fèi] waste"
+  },
+  {
+    "jian": "详",
+    "fan": "詳",
+    "desc": "[xiáng] 详细 xiángxì detailed; 端详 duānxiáng details; 安详 ānxiáng serene"
+  },
+  {
+    "jian": "汤",
+    "fan": "湯",
+    "desc": "[tāng] hot water, soup\n[shāng] 汤汤 shāngshāng to flow turbulently"
+  },
+  {
+    "jian": "彻",
+    "fan": "徹",
+    "desc": "[chè] 彻底 chèdǐ thorough; 贯彻 guànchè carry out, implement"
+  },
+  {
+    "jian": "轰",
+    "fan": "轟",
+    "desc": "[hōng] bang, boom, rumble, bomb, attack, drive out; 轰轰烈烈 hōnghōnglièliè grand, spectacular"
+  },
+  {
+    "jian": "怜",
+    "fan": "憐",
+    "desc": "[lián] 可怜 kělián poor, pitiful"
+  },
+  {
+    "jian": "鸟",
+    "fan": "鳥",
+    "desc": "[niǎo] bird\n[diǎo] (=屌)\n{Compare with 乌 wu crow}"
+  },
+  {
+    "jian": "毁",
+    "fan": "毀",
+    "desc": "[huǐ] destroy; 毁灭 huǐmiè exterminate"
+  },
+  {
+    "jian": "聪",
+    "fan": "聰",
+    "desc": "[cōng] 聪明 cōngming clever, intelligent, bright"
+  },
+  {
+    "jian": "辩",
+    "fan": "辯",
+    "desc": "[biàn] (辩论 biànlùn) debate, argue; 辩证 diagnosis"
+  },
+  {
+    "jian": "饿",
+    "fan": "餓",
+    "desc": "[è] hungry"
+  },
+  {
+    "jian": "枫",
+    "fan": "楓",
+    "desc": "[fēng] Chinese sweet gum (tree); maple"
+  },
+  {
+    "jian": "挣",
+    "fan": "掙",
+    "desc": "[zhèng] struggle; earn\n[zhēng] 挣扎 zhēngzhá struggle"
+  },
+  {
+    "jian": "弯",
+    "fan": "彎",
+    "desc": "[wān] curve, bend"
+  },
+  {
+    "jian": "蒋",
+    "fan": "蔣",
+    "desc": "[Jiǎng] <family name>"
+  },
+  {
+    "jian": "违",
+    "fan": "違",
+    "desc": "[wéi] disobey, (=违反 wéifǎn, =违背 wéibèi) violate; 违法 wéifǎ break the law"
+  },
+  {
+    "jian": "亏",
+    "fan": "虧",
+    "desc": "[kuī] lose (money); 吃亏 chīkuī suffer a loss, come to grief, treat unfairly; 幸亏 xìngkuī fortunately, luckily"
+  },
+  {
+    "jian": "丢",
+    "fan": "丟",
+    "desc": "[diū] lose, misplace"
+  },
+  {
+    "jian": "绕",
+    "fan": "繞",
+    "desc": "[rào] wind, coil, move around; 围绕 wéirào surround"
+  },
+  {
+    "jian": "暂",
+    "fan": "暫",
+    "desc": "[zàn] (=暂时 zànshí) temporary"
+  },
+  {
+    "jian": "递",
+    "fan": "遞",
+    "desc": "[dì] hand over, pass, give; 递交 dìjiāo deliver, hand on, present, submit"
+  },
+  {
+    "jian": "潜",
+    "fan": "潛",
+    "desc": "[qián] 潜水艇 qiánshuǐtǐng submarine; 潜力 qiánlì latent ability"
+  },
+  {
+    "jian": "鸿",
+    "fan": "鴻",
+    "desc": "[hóng] (鸿雁 hóngyàn) swan, wild goose, vast"
+  },
+  {
+    "jian": "绩",
+    "fan": "績",
+    "desc": "[jì] 成绩 grade, achievement; 功绩 merits and achievements"
+  },
+  {
+    "jian": "涂",
+    "fan": "塗",
+    "desc": "[tú] spread on; 涂料 túliào coating\n[tu] 糊涂 hútu muddled\n[tū] 糊里八涂 húlibātū confused, muddle-headed"
+  },
+  {
+    "jian": "闷",
+    "fan": "悶",
+    "desc": "[mēn] muffled (of sound), stuffy, cut off from air circulation\n[mèn] bored, depressed"
+  },
+  {
+    "jian": "励",
+    "fan": "勵",
+    "desc": "[lì] 鼓励 gǔlì, 激励 jīlì encourage; 奖励 jiǎnglì reward"
+  },
+  {
+    "jian": "舰",
+    "fan": "艦",
+    "desc": "[jiàn] (=军舰 jūnjiàn) warship; 航空母舰 hángkōngmǔjiàn aircraft carrier"
+  },
+  {
+    "jian": "牵",
+    "fan": "牽",
+    "desc": "[qiān] lead along (by hand, halter, etc.); 牵牛下地 qiānniú xià dì"
+  },
+  {
+    "jian": "肃",
+    "fan": "肅",
+    "desc": "[sù] 严肃 yánsù serious, solemn; 肃清 sùqīng eliminate"
+  },
+  {
+    "jian": "夹",
+    "fan": "夾",
+    "desc": "[jiā] press, squeeze, clip\n[jiá] lined (clothing)\n[gā] 夹肢窝 gāzhiwō armpit"
+  },
+  {
+    "jian": "疯",
+    "fan": "瘋",
+    "desc": "[fēng] crazy"
+  },
+  {
+    "jian": "恼",
+    "fan": "惱",
+    "desc": "[nǎo] 恼火 nǎohuǒ angry, annoyed"
+  },
+  {
+    "jian": "颤",
+    "fan": "顫",
+    "desc": "[chàn] quiver; 颤抖 chàndǒu tremble; 颤动 chàndòng vibrate\n[zhàn] tremble, shudder"
+  },
+  {
+    "jian": "艰",
+    "fan": "艱",
+    "desc": "[jiān] (=艰难 jiānnán) difficult, (=艰苦 jiānkǔ) arduous"
+  },
+  {
+    "jian": "苍",
+    "fan": "蒼",
+    "desc": "[cāng] dark green or blue; 苍天 blue sky; 苍松 green pine; 苍蝇 cāngying fly, mosquito; 苍白 cāngbái pale, lifeless, grayish"
+  },
+  {
+    "jian": "莲",
+    "fan": "蓮",
+    "desc": "[lián] lotus, water lilly"
+  },
+  {
+    "jian": "钻",
+    "fan": "鑽",
+    "desc": "[zuān] drill, get into, study\n[zuàn] drill, auger, diamond, watch jewel"
+  },
+  {
+    "jian": "峡",
+    "fan": "峽",
+    "desc": "[xiá] (=峡谷 xiágǔ) gorge, canyon; 海峡 hǎixiá strait, channel; 三峡 Sān Xiá the Three Gorges of the Yangtze river"
+  },
+  {
+    "jian": "辽",
+    "fan": "遼",
+    "desc": "[liáo] 辽阔 liáokuò vast, extensive; 辽宁 Liáoníng (a province)"
+  },
+  {
+    "jian": "凯",
+    "fan": "凱",
+    "desc": "[kǎi] 凯歌 kǎigē song of triumph"
+  },
+  {
+    "jian": "猫",
+    "fan": "貓",
+    "desc": "[māo] cat; 熊猫 xióngmāo panda; 猫头鹰 māotóuyīng owl\n[máo] 猫腰 máoyāo stoop, crouch"
+  },
+  {
+    "jian": "涛",
+    "fan": "濤",
+    "desc": "[tāo] great waves"
+  },
+  {
+    "jian": "锅",
+    "fan": "鍋",
+    "desc": "[guō] pot, wok, frying pan; 锅贴 guōtiē pot sticker"
+  },
+  {
+    "jian": "罚",
+    "fan": "罰",
+    "desc": "[fá] (=惩罚 chéngfá) punish, (=罚款 fákuǎn) penalty"
+  },
+  {
+    "jian": "浓",
+    "fan": "濃",
+    "desc": "[nóng] dense, thick, concentrated; 浓度 nóngdù consistency"
+  },
+  {
+    "jian": "键",
+    "fan": "鍵",
+    "desc": "[jiàn] key; 键盘 jiànpán keyboard (piano or typewriter)"
+  },
+  {
+    "jian": "脉",
+    "fan": "脈",
+    "desc": "[mài] vein, pulse; 山脉 shānmài mountain range\n[mò] 脉脉 mòmò lovingly"
+  },
+  {
+    "jian": "锁",
+    "fan": "鎖",
+    "desc": "[suǒ] lock"
+  },
+  {
+    "jian": "邻",
+    "fan": "鄰",
+    "desc": "[lín] (=邻居 línjū) neighbor"
+  },
+  {
+    "jian": "驾",
+    "fan": "駕",
+    "desc": "[jià] (驾驶 jiàshǐ) drive, fly, sail; 劳驾 láojià excuse me..."
+  },
+  {
+    "jian": "祸",
+    "fan": "禍",
+    "desc": "[huò] misfortune"
+  },
+  {
+    "jian": "览",
+    "fan": "覽",
+    "desc": "[lǎn] 展览 zhǎnlǎn exhibition; 游览 yóulǎn go sightseeing"
+  },
+  {
+    "jian": "铜",
+    "fan": "銅",
+    "desc": "[tóng] copper (Cu); 青铜 qīngtóng bronze"
+  },
+  {
+    "jian": "档",
+    "fan": "檔",
+    "desc": "[dàng] shelves; 档案 dàng'àn files, archives\n[dǎng] 骂档子 mà dǎngzi target of scolding; 逻辑档 luójidǎng logical data files"
+  },
+  {
+    "jian": "抛",
+    "fan": "拋",
+    "desc": "[pāo] throw; 抛弃 pāoqì abandon; 抛锚 pāomáo drop anchor"
+  },
+  {
+    "jian": "驱",
+    "fan": "驅",
+    "desc": "[qū] 驱逐 qūzhú drive out, expel"
+  },
+  {
+    "jian": "窝",
+    "fan": "窩",
+    "desc": "[wō] nest; 窝棚 wōpeng shack"
+  },
+  {
+    "jian": "裤",
+    "fan": "褲",
+    "desc": "[kù] (=裤子) pants"
+  },
+  {
+    "jian": "阔",
+    "fan": "闊",
+    "desc": "[kuò] wide; 广阔 guǎngkuò vast; 宽阔 kuānkuò broad; 辽阔 liáokuò extensive"
+  },
+  {
+    "jian": "玛",
+    "fan": "瑪",
+    "desc": "[mǎ] 玛瑙 mǎnǎo agate; 玛雅 Mǎyǎ Maya"
+  },
+  {
+    "jian": "频",
+    "fan": "頻",
+    "desc": "[pín] frequently; 频率 pínlǜ frequency"
+  },
+  {
+    "jian": "禅",
+    "fan": "禪",
+    "desc": "[chán] meditation, Zen, Dhyana\n[shàn] 禅让 shànràng abdicate"
+  },
+  {
+    "jian": "莱",
+    "fan": "萊",
+    "desc": "[lái] 莱菔 láifú radish; 文莱 Wénlái Brunei"
+  },
+  {
+    "jian": "尝",
+    "fan": "嘗",
+    "desc": "[cháng] taste"
+  },
+  {
+    "jian": "盗",
+    "fan": "盜",
+    "desc": "[dào] (=盗窃 dàoqiè) steal; 强盗 qiángdào robber"
+  },
+  {
+    "jian": "筹",
+    "fan": "籌",
+    "desc": "[chóu] chip, counter, prepare, plan"
+  },
+  {
+    "jian": "浅",
+    "fan": "淺",
+    "desc": "[qiǎn] shallow, light"
+  },
+  {
+    "jian": "厌",
+    "fan": "厭",
+    "desc": "[yàn] (=讨厌 tǎoyàn, =厌恶 yànwù) detest; 厌烦 yànfán boring\n[yān] (=恹 yān) 恹恹 yānyān weak and weary thrugh illness"
+  },
+  {
+    "jian": "寿",
+    "fan": "壽",
+    "desc": "[shòu] longevity; 寿命 shòumìng life-span"
+  },
+  {
+    "jian": "锦",
+    "fan": "錦",
+    "desc": "[jǐn] brocade; 什锦 shíjǐn fancy; 素什锦 sùshíjǐn assorted vegetables"
+  },
+  {
+    "jian": "鉴",
+    "fan": "鑒",
+    "desc": "[jiàn] reflect, mirror, inspect, examine, take as a lesson, ancient bronze mirror, warning, object lesson; 鉴定 jiàndìng appraise; 借鉴 jièjiàn draw lessons from"
+  },
+  {
+    "jian": "趋",
+    "fan": "趨",
+    "desc": "[qū] walk fast, hurry, (=趋向 qūxiàng) tend, incline to; 趋势 qūshì tendency"
+  },
+  {
+    "jian": "贯",
+    "fan": "貫",
+    "desc": "[guàn] 贯彻 guànchè carry out; 一贯 yíguàn consistent"
+  },
+  {
+    "jian": "拨",
+    "fan": "撥",
+    "desc": "[bō] poke, turn, stir; 拨钟 bōzhōng set a clock; 拨电话 bō diànhuà dial a phone"
+  },
+  {
+    "jian": "逊",
+    "fan": "遜",
+    "desc": "[xùn] 谦逊 qiānxùn modest"
+  },
+  {
+    "jian": "赔",
+    "fan": "賠",
+    "desc": "[péi] compensate, pay for, lose money; 赔不是 péi bùshi apologize"
+  },
+  {
+    "jian": "迁",
+    "fan": "遷",
+    "desc": "[qiān] move, change; 变迁 biànqiān changes; 迁就 qiānjiù yield to"
+  },
+  {
+    "jian": "袭",
+    "fan": "襲",
+    "desc": "[xí] make a surprise attack, carry on as before"
+  },
+  {
+    "jian": "驶",
+    "fan": "駛",
+    "desc": "[shǐ] sail, move along quickly (speaking fo vehicles), (=驾驶 jiàshǐ) drive"
+  },
+  {
+    "jian": "惧",
+    "fan": "懼",
+    "desc": "[jù] fear, dread"
+  },
+  {
+    "jian": "纽",
+    "fan": "紐",
+    "desc": "[niǔ] 纽扣儿 niǔkòur button, knob, handle, tie"
+  },
+  {
+    "jian": "踪",
+    "fan": "蹤",
+    "desc": "[zōng] 跟踪 gēnzōng follow closely; 失踪 shīzōng be missing; 踪迹 zōngjì trace"
+  },
+  {
+    "jian": "丛",
+    "fan": "叢",
+    "desc": "[cóng] crowd; 丛书 cóngshū series of books; 丛林 cónglín jungle"
+  },
+  {
+    "jian": "锐",
+    "fan": "銳",
+    "desc": "[ruì] 尖锐 jiānruì sharp pointed, acute; 锐利 ruìlì sharp, keen"
+  },
+  {
+    "jian": "湿",
+    "fan": "濕",
+    "desc": "[shī] moist"
+  },
+  {
+    "jian": "睁",
+    "fan": "睜",
+    "desc": "[zhēng] open the eyes"
+  },
+  {
+    "jian": "沟",
+    "fan": "溝",
+    "desc": "[gōu] gulley, trench"
+  },
+  {
+    "jian": "贡",
+    "fan": "貢",
+    "desc": "[gòng] 贡献 gòngxiàn contribute"
+  },
+  {
+    "jian": "浑",
+    "fan": "渾",
+    "desc": "[hún] 浑身 húnshēn from head to foot, all over"
+  },
+  {
+    "jian": "赢",
+    "fan": "贏",
+    "desc": "[yíng] win"
+  },
+  {
+    "jian": "驰",
+    "fan": "馳",
+    "desc": "[chí] gallop, speed, spread; 驰名 chímíng well-known"
+  },
+  {
+    "jian": "恒",
+    "fan": "恆",
+    "desc": "[héng] permanent"
+  },
+  {
+    "jian": "贤",
+    "fan": "賢",
+    "desc": "[xián] 贤惠 xiánhuì virtuous and dutiful (woman); 贤人 xiánrén virtuous person"
+  },
+  {
+    "jian": "饰",
+    "fan": "飾",
+    "desc": "[shì] decoration, dress up, impersonate"
+  },
+  {
+    "jian": "偿",
+    "fan": "償",
+    "desc": "[cháng] repay, (=赔偿 péicháng) compensate, pay for"
+  },
+  {
+    "jian": "缠",
+    "fan": "纏",
+    "desc": "[chán] to wind, tie up, tangle, bother"
+  },
+  {
+    "jian": "摄",
+    "fan": "攝",
+    "desc": "[shè] absorb, photograph; 拍摄 pāishè take a picture"
+  },
+  {
+    "jian": "拟",
+    "fan": "擬",
+    "desc": "[nǐ] (=拟定 nǐdìng) draft; 比拟 bǐnǐ comparison; 模拟 mónǐ imitate"
+  },
+  {
+    "jian": "闯",
+    "fan": "闖",
+    "desc": "[chuǎng] rush, charge"
+  },
+  {
+    "jian": "贺",
+    "fan": "賀",
+    "desc": "[hè] 祝贺 zhùhè congratulate; 庆贺 qìnghè celebrate"
+  },
+  {
+    "jian": "缝",
+    "fan": "縫",
+    "desc": "[féng] sew\n[fèng] seam, crack"
+  },
+  {
+    "jian": "饱",
+    "fan": "飽",
+    "desc": "[bǎo] full (after meal)"
+  },
+  {
+    "jian": "抚",
+    "fan": "撫",
+    "desc": "[fǔ] pat, soothe, foster; 抚摸 fǔmō stroke"
+  },
+  {
+    "jian": "册",
+    "fan": "冊",
+    "desc": "[cè] book; 手册 shǒucè handbook; 地图册 dìtúcè atlas\n{Compare with 丽 lì beautiful and 朋 péng friend}"
+  },
+  {
+    "jian": "炼",
+    "fan": "煉",
+    "desc": "[liàn] smelt, refine, temper metal; 锻炼 duànliàn exercise"
+  },
+  {
+    "jian": "宪",
+    "fan": "憲",
+    "desc": "[xiàn] 宪法 xiànfǎ constitution; 宪兵 xiànbīng military police"
+  },
+  {
+    "jian": "庙",
+    "fan": "廟",
+    "desc": "[miào] temple"
+  },
+  {
+    "jian": "谊",
+    "fan": "誼",
+    "desc": "[yì] 友谊 yǒuyì friendship"
+  },
+  {
+    "jian": "储",
+    "fan": "儲",
+    "desc": "[chǔ] 储量 chǔliàng reserves; 存储 cúnchǔ memory"
+  },
+  {
+    "jian": "冯",
+    "fan": "馮",
+    "desc": "[píng] swift-running horse\n[Féng] <family name>"
+  },
+  {
+    "jian": "唤",
+    "fan": "喚",
+    "desc": "[huàn] (=叫唤 jiàohuan) call out"
+  },
+  {
+    "jian": "贪",
+    "fan": "貪",
+    "desc": "[tān] corrupt; 贪心 tānxīn greedy"
+  },
+  {
+    "jian": "卧",
+    "fan": "臥",
+    "desc": "[wò] lie down; 卧室 wòshì bedroom"
+  },
+  {
+    "jian": "扰",
+    "fan": "擾",
+    "desc": "[rǎo] harass, bother, trouble; 扰乱 rǎoluàn disturb"
+  },
+  {
+    "jian": "胁",
+    "fan": "脅",
+    "desc": "[xié] upper part of side of person's body, coerce"
+  },
+  {
+    "jian": "谱",
+    "fan": "譜",
+    "desc": "[pǔ] table, chart, manual, music score, (=谱写 pǔxiě) compose (music etc.)"
+  },
+  {
+    "jian": "阁",
+    "fan": "閣",
+    "desc": "[gé] pavilion, cabinet"
+  },
+  {
+    "jian": "鹏",
+    "fan": "鵬",
+    "desc": "[péng] roc (a giant mythical bird)"
+  },
+  {
+    "jian": "卢",
+    "fan": "盧",
+    "desc": "[Lú] <family name>; 觚卢 gūlú calabash"
+  },
+  {
+    "jian": "碍",
+    "fan": "礙",
+    "desc": "[ài] 障碍 zhàng'ài get in the way; 妨碍 fáng'ài hinder"
+  },
+  {
+    "jian": "综",
+    "fan": "綜",
+    "desc": "[zōng] 综合 zōnghé synthesize\n[zèng] heddle"
+  },
+  {
+    "jian": "晕",
+    "fan": "暈",
+    "desc": "[yūn] faint, swoon; 头晕 tóuyūn dizzy\n[yùn] dizzy, faint, halo; 红晕 hóngyùn blush"
+  },
+  {
+    "jian": "拦",
+    "fan": "攔",
+    "desc": "[lán] block the way"
+  },
+  {
+    "jian": "雾",
+    "fan": "霧",
+    "desc": "[wù] fog; 烟雾 yānwù smoke, mist"
+  },
+  {
+    "jian": "耻",
+    "fan": "恥",
+    "desc": "[chǐ] (=耻辱 chǐrǔ) shame, humiliation; 可耻 kěchǐ shameful; 无耻 wǔchǐ shameless"
+  },
+  {
+    "jian": "摊",
+    "fan": "攤",
+    "desc": "[tān] spread out, unfold, take a share in, vendor's stall"
+  },
+  {
+    "jian": "诞",
+    "fan": "誕",
+    "desc": "[dàn] 诞生 dànshēng be born; 圣诞节 Shèngdànjié Christmas"
+  },
+  {
+    "jian": "悬",
+    "fan": "懸",
+    "desc": "[xuán] hang, unresolved, worry; 悬崖 xuányá cliff"
+  },
+  {
+    "jian": "凑",
+    "fan": "湊",
+    "desc": "[còu] gather together, happen by chance"
+  },
+  {
+    "jian": "笼",
+    "fan": "籠",
+    "desc": "[lóng] (=笼子 lóngzi) cage, coop\n[lǒng] 笼罩 lǒngzhào shroud, envelop"
+  },
+  {
+    "jian": "颠",
+    "fan": "顛",
+    "desc": "[diān] jolt, fall, summit; 颠倒 diāndǎo turn upside down"
+  },
+  {
+    "jian": "携",
+    "fan": "攜",
+    "desc": "[xié] (携带 xiédài) carry, take along; 携手 xiéshǒu hand in hand"
+  },
+  {
+    "jian": "掷",
+    "fan": "擲",
+    "desc": "[zhì] throw, cast"
+  },
+  {
+    "jian": "纠",
+    "fan": "糾",
+    "desc": "[jiū] 纠正 jiūzhèng rectify; 纠缠 jiūchán get entangled"
+  },
+  {
+    "jian": "稣",
+    "fan": "穌",
+    "desc": "[sū] revive, come to; 耶稣 Yēsū Jesus"
+  },
+  {
+    "jian": "吨",
+    "fan": "噸",
+    "desc": "[dūn] <loan> ton, 〈slang〉 one thousand yuan (RMB)"
+  },
+  {
+    "jian": "虫",
+    "fan": "蟲",
+    "desc": "[chóng] worm, insect; 爬虫 páchóng reptile; 书虫 shūchóng bookworm"
+  },
+  {
+    "jian": "绳",
+    "fan": "繩",
+    "desc": "[shéng] (=绳子 shéngzi, =绳索 shéngsuǒ) rope, cord"
+  },
+  {
+    "jian": "厨",
+    "fan": "廚",
+    "desc": "[chú] 厨房 chúfáng kitchen"
+  },
+  {
+    "jian": "涨",
+    "fan": "漲",
+    "desc": "[zhǎng] rise, go up\n[zhàng] swell"
+  },
+  {
+    "jian": "皱",
+    "fan": "皺",
+    "desc": "[zhòu] to wrinkle; 皱纹 zhòuwén wrinkles"
+  },
+  {
+    "jian": "赌",
+    "fan": "賭",
+    "desc": "[dǔ] gamble, bet"
+  },
+  {
+    "jian": "饶",
+    "fan": "饒",
+    "desc": "[ráo] rich, plentiful, have mercy, give extra"
+  },
+  {
+    "jian": "矿",
+    "fan": "礦",
+    "desc": "[kuàng] (=矿石 kuàngshí) ore; (矿山 kuàngshān) mine; 矿物 kuàngwù mineral"
+  },
+  {
+    "jian": "畅",
+    "fan": "暢",
+    "desc": "[chàng] smooth, free; 舒畅 shūchàng happy, worry-free; 畅快 chàngkuài cheerfull, carefree; 畅通 chàngtōng unimpeded, unblocked"
+  },
+  {
+    "jian": "喷",
+    "fan": "噴",
+    "desc": "[pēn] spurt, spray; 打喷嚏 dǎ pēntì sneeze\n[pèn] crop, in season, high season"
+  },
+  {
+    "jian": "镖",
+    "fan": "鏢",
+    "desc": "[biāo] dartlike weapon; 保镖 bǎobiāo bodyguard"
+  },
+  {
+    "jian": "撑",
+    "fan": "撐",
+    "desc": "[chēng] prop up, support, keep up, fill to bursting"
+  },
+  {
+    "jian": "炉",
+    "fan": "爐",
+    "desc": "[lú] (=炉子 lúzi) stove, oven, furnace"
+  },
+  {
+    "jian": "伪",
+    "fan": "偽",
+    "desc": "[wěi] false, fake; 虚伪 xūwěi false, hypocritical; 伪币 wěibì counterfeit money"
+  },
+  {
+    "jian": "谅",
+    "fan": "諒",
+    "desc": "[liàng] (=原谅 yuánliàng) forgive"
+  },
+  {
+    "jian": "钓",
+    "fan": "釣",
+    "desc": "[diào] (=钓鱼 diàoyú) to fish; 钓钩 diàogōu fishing hook"
+  },
+  {
+    "jian": "肠",
+    "fan": "腸",
+    "desc": "[cháng] intestine"
+  },
+  {
+    "jian": "剥",
+    "fan": "剝",
+    "desc": "[bāo] shell, peel\n[bō] 剥削 bōxuē exploitation"
+  },
+  {
+    "jian": "赚",
+    "fan": "賺",
+    "desc": "[zhuàn] gain, profit\n[zuàn] cheat"
+  },
+  {
+    "jian": "烛",
+    "fan": "燭",
+    "desc": "[zhú] 蜡烛 làzhú candle"
+  },
+  {
+    "jian": "厦",
+    "fan": "廈",
+    "desc": "[shà] 大厦 dàshà tall building, mansion\n[Xià] 厦门 Xiàmén Amoy"
+  },
+  {
+    "jian": "迈",
+    "fan": "邁",
+    "desc": "[mài] step, stride, old"
+  },
+  {
+    "jian": "齿",
+    "fan": "齒",
+    "desc": "[chǐ] (=牙齿 yáchǐ) tooth"
+  },
+  {
+    "jian": "谨",
+    "fan": "謹",
+    "desc": "[jǐn] (=谨慎 jǐnshèn) cautious, sincerely"
+  },
+  {
+    "jian": "弥",
+    "fan": "彌",
+    "desc": "[mí] 弥漫 mímiàn fill the air; 弥补 míbǔ make up for, remedy"
+  },
+  {
+    "jian": "夸",
+    "fan": "誇",
+    "desc": "[kuā] brag; 夸大 kuādà exaggerate"
+  },
+  {
+    "jian": "债",
+    "fan": "債",
+    "desc": "[zhài] debt"
+  },
+  {
+    "jian": "刹",
+    "fan": "剎",
+    "desc": "[shā] (=刹车) brake, stop\n[chà] 刹那 chànà instant, split second"
+  },
+  {
+    "jian": "肤",
+    "fan": "膚",
+    "desc": "[fū] (=皮肤 pífu) skin; 肤色 fūsè color of skin"
+  },
+  {
+    "jian": "症",
+    "fan": "癥",
+    "desc": "[zhèng] disease; 健忘症 jiànwàngzhèng amnesia\n[zhēng] 症结 zhēngjié crucial reason, obstruction of the bowels"
+  },
+  {
+    "jian": "钦",
+    "fan": "欽",
+    "desc": "[qīn] by the emperor himself, respect, (=钦佩 qīnpèi) admire; 钦差 qīnchāi imperial envoy"
+  },
+  {
+    "jian": "绵",
+    "fan": "綿",
+    "desc": "[mián] 连绵 unbroken; 海绵 sponge\n[miān] 软绵绵 soft"
+  },
+  {
+    "jian": "诱",
+    "fan": "誘",
+    "desc": "[yòu] guide, lead, lure"
+  },
+  {
+    "jian": "晋",
+    "fan": "晉",
+    "desc": "[jìn] enter, advance, promote, a dynasty (265-420), <family name>, short name for Shanxi province"
+  },
+  {
+    "jian": "悦",
+    "fan": "悅",
+    "desc": "[yuè] (=喜悦 xǐyuè) happy, joyful, delighted"
+  },
+  {
+    "jian": "艳",
+    "fan": "艷",
+    "desc": "[yàn] beauteous, amorous, (=艳丽 yànlì) gorgeous, respendent; 鲜艳 xiānyàn bright (color)"
+  },
+  {
+    "jian": "贷",
+    "fan": "貸",
+    "desc": "[dài] borrow, (=贷款 dàikuǎn) lend, loan"
+  },
+  {
+    "jian": "颈",
+    "fan": "頸",
+    "desc": "[jǐng] (=颈项 jǐngxiàng) neck\n[gěng] 脖颈儿 bógěngr nape"
+  },
+  {
+    "jian": "践",
+    "fan": "踐",
+    "desc": "[jiàn] 实践 put into practice; 践踏 trample"
+  },
+  {
+    "jian": "贾",
+    "fan": "賈",
+    "desc": "[gǔ] merchant\n[Jiǎ] <family name>"
+  },
+  {
+    "jian": "轿",
+    "fan": "轎",
+    "desc": "[jiào] sedan chair; 轿车 jiàochē car"
+  },
+  {
+    "jian": "娇",
+    "fan": "嬌",
+    "desc": "[jiāo] graceful, delicate; 娇嫩 jiāonèn tender and lovely"
+  },
+  {
+    "jian": "潇",
+    "fan": "瀟",
+    "desc": "[xiāo] deep and clear water; 潇洒 xiāosǎ natural & unrestrained"
+  },
+  {
+    "jian": "赐",
+    "fan": "賜",
+    "desc": "[cì] give, grant, gift (from superior to inferior)"
+  },
+  {
+    "jian": "坟",
+    "fan": "墳",
+    "desc": "[fén] grave, tomb"
+  },
+  {
+    "jian": "颂",
+    "fan": "頌",
+    "desc": "[sòng] praise, song, ode; 歌颂 gēsòng sing the praises of"
+  },
+  {
+    "jian": "砖",
+    "fan": "磚",
+    "desc": "[zhuān] brick"
+  },
+  {
+    "jian": "鹤",
+    "fan": "鶴",
+    "desc": "[hè] crane (emblem of longevity)"
+  },
+  {
+    "jian": "渔",
+    "fan": "漁",
+    "desc": "[yú] to fish; 渔民 yúmín fisherfolk; 渔业 yúyè fishery"
+  },
+  {
+    "jian": "哑",
+    "fan": "啞",
+    "desc": "[yǎ] mute, dumb, hoarse\n[yā] <interjection indicating surprice, same as 呀>, ah, oh"
+  },
+  {
+    "jian": "饼",
+    "fan": "餅",
+    "desc": "[bǐng] cake; 饼干 bǐnggān cracker, cookie"
+  },
+  {
+    "jian": "牺",
+    "fan": "犧",
+    "desc": "[xī] sacrificial animal; 牺牲 xīshēng sacrifice"
+  },
+  {
+    "jian": "滩",
+    "fan": "灘",
+    "desc": "[tān] (=海滩 hǎitān) beach, sands"
+  },
+  {
+    "jian": "钉",
+    "fan": "釘",
+    "desc": "[dīng] a nail, to follow closely\n[dìng] to nail"
+  },
+  {
+    "jian": "锡",
+    "fan": "錫",
+    "desc": "[xī] tin (Sn)"
+  },
+  {
+    "jian": "赠",
+    "fan": "贈",
+    "desc": "[zèng] (=赠送 zèngsòng) give as a present"
+  },
+  {
+    "jian": "铃",
+    "fan": "鈴",
+    "desc": "[líng] bell"
+  },
+  {
+    "jian": "顽",
+    "fan": "頑",
+    "desc": "[wán] stupid, stubborn, naughty; 顽强 wánqiáng indomitable; 顽固 wángù obstinate"
+  },
+  {
+    "jian": "鹰",
+    "fan": "鷹",
+    "desc": "[yīng] hawk, eagle"
+  },
+  {
+    "jian": "轨",
+    "fan": "軌",
+    "desc": "[guǐ] track, rail, course, path; 轨道 guǐdào orbit"
+  },
+  {
+    "jian": "哟",
+    "fan": "喲",
+    "desc": "[yō] Oh!\n[yo] <interjection indicating exhortation>\n[yāo] ouch"
+  },
+  {
+    "jian": "硕",
+    "fan": "碩",
+    "desc": "[shuò] very large; 硕士学位 shuòshìxuéwèi Master's degree"
+  },
+  {
+    "jian": "帅",
+    "fan": "帥",
+    "desc": "[shuài] commander in chief, graceful"
+  },
+  {
+    "jian": "懒",
+    "fan": "懶",
+    "desc": "[lǎn] lazy, sluggish; 伸懒腰 shēn lǎnyāo stretch oneself"
+  },
+  {
+    "jian": "兽",
+    "fan": "獸",
+    "desc": "[shòu] beast, wild animal, (=野兽 yěshòu) beastly, crude, uncivilized"
+  },
+  {
+    "jian": "猎",
+    "fan": "獵",
+    "desc": "[liè] (=打猎 dǎliè) hunt, chase; 猎人 lièren hunter; 猎狗 liègǒu hound"
+  },
+  {
+    "jian": "盐",
+    "fan": "鹽",
+    "desc": "[yán] salt"
+  },
+  {
+    "jian": "饥",
+    "fan": "飢",
+    "desc": "[jī] starve, be hungry, famine; 饥饿 jī'è hunger, starvation"
+  },
+  {
+    "jian": "逻",
+    "fan": "邏",
+    "desc": "[luó] patrol; 逻辑 luóji <loan> logic"
+  },
+  {
+    "jian": "骄",
+    "fan": "驕",
+    "desc": "[jiāo] severe, (=骄傲 jiāo'ào) arrogant, proud"
+  },
+  {
+    "jian": "贩",
+    "fan": "販",
+    "desc": "[fàn] 贩子 fànzi dealer; 贩卖 fànmài deal in, traffic, peddle"
+  },
+  {
+    "jian": "绘",
+    "fan": "繪",
+    "desc": "[huì] paint, draw; 绘画 huìhuà drawing, painting"
+  },
+  {
+    "jian": "蛮",
+    "fan": "蠻",
+    "desc": "[mán] quite, very, fierce, (=野蛮 yěmán) barbaric; 蛮横 mánhèng unreasonable"
+  },
+  {
+    "jian": "叙",
+    "fan": "敘",
+    "desc": "[xù] chat, (=叙述 xùshù, =叙事 xùshì) narrate, relate"
+  },
+  {
+    "jian": "斩",
+    "fan": "斬",
+    "desc": "[zhǎn] chop"
+  },
+  {
+    "jian": "吕",
+    "fan": "呂",
+    "desc": "[Lǚ] <family name>"
+  },
+  {
+    "jian": "谭",
+    "fan": "譚",
+    "desc": "[tán] talk, <family name>; 天方夜谭 tiānfāngyètán the story of Arabian Nights"
+  },
+  {
+    "jian": "冻",
+    "fan": "凍",
+    "desc": "[dòng] freeze"
+  },
+  {
+    "jian": "骆",
+    "fan": "駱",
+    "desc": "[luò] (=骆驼 luòtuo) camel"
+  },
+  {
+    "jian": "泼",
+    "fan": "潑",
+    "desc": "[pō] splash, spoll, sprinkle; rude and unreasonable; 活泼 huópo lively"
+  },
+  {
+    "jian": "谦",
+    "fan": "謙",
+    "desc": "[qiān] 谦虚 qiānxū, 谦逊 qiānxùn modest"
+  },
+  {
+    "jian": "厕",
+    "fan": "廁",
+    "desc": "[cè] (=厕所 cèsuǒ) toilet\n[si] (=茅厕 máosi) latrine"
+  },
+  {
+    "jian": "岭",
+    "fan": "嶺",
+    "desc": "[lǐng] mountain, (=山岭 shānlǐng) mountain range, ridge; 峻岭 jùnlǐng high mountains"
+  },
+  {
+    "jian": "鲍",
+    "fan": "鮑",
+    "desc": "[bào] <family name>, (=鲍鱼 bàoyú) abalone"
+  },
+  {
+    "jian": "秃",
+    "fan": "禿",
+    "desc": "[tū] bald, bare, blunt, incomplete"
+  },
+  {
+    "jian": "仓",
+    "fan": "倉",
+    "desc": "[cāng] warehouse"
+  },
+  {
+    "jian": "绑",
+    "fan": "綁",
+    "desc": "[bǎng] bind, tie; 绑架 bǎngjià kidnap"
+  },
+  {
+    "jian": "荐",
+    "fan": "薦",
+    "desc": "[jiàn] recommend, <archaic> grass, straw"
+  },
+  {
+    "jian": "鸭",
+    "fan": "鴨",
+    "desc": "[yā] (=鸭子 yāzi) duck; 唐老鸭 Táng lǎoyā Donald Duck"
+  },
+  {
+    "jian": "诊",
+    "fan": "診",
+    "desc": "[zhěn] 诊断 zhěnduàn diagnose; 诊所 zhěnsuǒ clinic"
+  },
+  {
+    "jian": "纹",
+    "fan": "紋",
+    "desc": "[wén] lines, veins, (wood) grain"
+  },
+  {
+    "jian": "庞",
+    "fan": "龐",
+    "desc": "[páng] (=庞大 pángdà) colossal, huge"
+  },
+  {
+    "jian": "骚",
+    "fan": "騷",
+    "desc": "[sāo] (=骚动 sāodòng, =骚乱 sāoluàn) disturb, harass"
+  },
+  {
+    "jian": "哗",
+    "fan": "嘩",
+    "desc": "[huá] clamor, hubbub, (=喧哗 xuānhuá) noise, clamor\n[huā] <the sound of clanging, gurgling, etc.>"
+  },
+  {
+    "jian": "亩",
+    "fan": "畝",
+    "desc": "[mǔ] sixth of an acre (0.0667 hectares)"
+  },
+  {
+    "jian": "谎",
+    "fan": "謊",
+    "desc": "[huǎng] lie, prevaricate"
+  },
+  {
+    "jian": "篮",
+    "fan": "籃",
+    "desc": "[lán] basket; 篮球 lánqiú basketball"
+  },
+  {
+    "jian": "搁",
+    "fan": "擱",
+    "desc": "[gē] put\n[gé] endure"
+  },
+  {
+    "jian": "厢",
+    "fan": "廂",
+    "desc": "[xiāng] wing of a house, side, railway carriage"
+  },
+  {
+    "jian": "瞒",
+    "fan": "瞞",
+    "desc": "[mán] hide the truth from"
+  },
+  {
+    "jian": "肿",
+    "fan": "腫",
+    "desc": "[zhǒng] swollen; 肿瘤 zhǒngliú tumor; 红肿 red and swollen"
+  },
+  {
+    "jian": "侨",
+    "fan": "僑",
+    "desc": "[qiáo] 华侨 Huáqiáo overseas Chinese; 侨胞 compatriots abroad"
+  },
+  {
+    "jian": "叠",
+    "fan": "疊",
+    "desc": "[dié] pile up, repeat; (折叠 zhédié) fold"
+  },
+  {
+    "jian": "啸",
+    "fan": "嘯",
+    "desc": "[xiào] 呼啸 hūxiào whistle, scream, whizz"
+  },
+  {
+    "jian": "胀",
+    "fan": "脹",
+    "desc": "[zhàng] (=膨胀 péngzhàng) swell, expand"
+  },
+  {
+    "jian": "赋",
+    "fan": "賦",
+    "desc": "[fù] (赋于) bestow on; compose; 赋税 taxes"
+  },
+  {
+    "jian": "恳",
+    "fan": "懇",
+    "desc": "[kěn] 诚恳 chéngkěn, 恳切 kěnqiè sincere; 恳求 plead"
+  },
+  {
+    "jian": "婴",
+    "fan": "嬰",
+    "desc": "[yīng] (=婴儿 yīng'ér) baby, infant"
+  },
+  {
+    "jian": "毙",
+    "fan": "斃",
+    "desc": "[bì] execute (kill); 枪毙 qiāngbì execute by shooting"
+  },
+  {
+    "jian": "谜",
+    "fan": "謎",
+    "desc": "[mí] (谜语 míyǔ) riddle\n[mèi] 谜儿 riddle"
+  },
+  {
+    "jian": "琼",
+    "fan": "瓊",
+    "desc": "[qióng] beautiful jade; 琼脂 agar"
+  },
+  {
+    "jian": "呜",
+    "fan": "嗚",
+    "desc": "[wū] (sound of whistling, zooming); 呜咽 wūyè sob, whimper"
+  },
+  {
+    "jian": "窜",
+    "fan": "竄",
+    "desc": "[cuàn] flee, scurry; exile; change wording"
+  },
+  {
+    "jian": "颁",
+    "fan": "頒",
+    "desc": "[bān] proclaim, (=颁发 bānfā) promulgate, issue"
+  },
+  {
+    "jian": "颊",
+    "fan": "頰",
+    "desc": "[jiá] jaw; cheek"
+  },
+  {
+    "jian": "嘱",
+    "fan": "囑",
+    "desc": "[zhǔ] (=嘱咐 zhǔfu) advise, enjoin, urge, exhort"
+  },
+  {
+    "jian": "驳",
+    "fan": "駁",
+    "desc": "[bó] contradict; 驳斥 bóchì denounce; 反驳 fǎnbó refute"
+  },
+  {
+    "jian": "沪",
+    "fan": "滬",
+    "desc": "[Hù] name for 上海 Shanghai"
+  },
+  {
+    "jian": "贱",
+    "fan": "賤",
+    "desc": "[jiàn] inexpensive, cheap, lowly, humble, worthless"
+  },
+  {
+    "jian": "钩",
+    "fan": "鉤",
+    "desc": "[gōu] (钩子 gōuzi) hook"
+  },
+  {
+    "jian": "竖",
+    "fan": "豎",
+    "desc": "[shù] vertical, perpendicular; vertical stroke \"丨\""
+  },
+  {
+    "jian": "惩",
+    "fan": "懲",
+    "desc": "[chéng] chastise, punish, correct, repress; restrain oneself"
+  },
+  {
+    "jian": "绣",
+    "fan": "繡",
+    "desc": "[xiù] embroider; 绣像 embroidered portrait"
+  },
+  {
+    "jian": "讶",
+    "fan": "訝",
+    "desc": "[yà] 惊讶 amazed"
+  },
+  {
+    "jian": "纲",
+    "fan": "綱",
+    "desc": "[gāng] fishing net rope; guiding principle; 纲领 program"
+  },
+  {
+    "jian": "滨",
+    "fan": "濱",
+    "desc": "[bīn] 海滨 seashore; 滨临 bīnlín to be close to (a body of water)"
+  },
+  {
+    "jian": "舱",
+    "fan": "艙",
+    "desc": "[cāng] (ship) cabin"
+  },
+  {
+    "jian": "娱",
+    "fan": "娛",
+    "desc": "[yú] 娱乐 yúlè amuse, amusement, recreation"
+  },
+  {
+    "jian": "鸦",
+    "fan": "鴉",
+    "desc": "[yā] 乌鸦 wūyā crow; 鸦片 yāpiàn opium"
+  },
+  {
+    "jian": "狮",
+    "fan": "獅",
+    "desc": "[shī] (=狮子 shīzi) lion"
+  },
+  {
+    "jian": "凛",
+    "fan": "凜",
+    "desc": "[lǐn] cold; strict; afraid; shiver, tremble with cold or fear"
+  },
+  {
+    "jian": "龟",
+    "fan": "龜",
+    "desc": "[guī] (乌龟) tortoise; 海龟 turtle\n[jūn] 龟裂 jūnlì fissure (of parched earth)\n[Qiū] 龟兹 Qiūcí Kucha, a historic town at the northern rim of the Taklamakan Desert"
+  },
+  {
+    "jian": "窑",
+    "fan": "窯",
+    "desc": "[yáo] kiln; (窑洞) cave dwelling"
+  },
+  {
+    "jian": "纤",
+    "fan": "纖",
+    "desc": "[xiān] 纤维 fiber\n[qiàn] rope for towing boat"
+  },
+  {
+    "jian": "宠",
+    "fan": "寵",
+    "desc": "[chǒng] love, bestow favor on"
+  },
+  {
+    "jian": "链",
+    "fan": "鏈",
+    "desc": "[liàn] (链子 liànzi) chain; 拉链 zipper; 铰链 hinge"
+  },
+  {
+    "jian": "坝",
+    "fan": "壩",
+    "desc": "[bà] dam; dyke, embankment"
+  },
+  {
+    "jian": "狭",
+    "fan": "狹",
+    "desc": "[xiá] (=狭窄 xiázhǎi, =狭隘 xiá'ài) narrow"
+  },
+  {
+    "jian": "铭",
+    "fan": "銘",
+    "desc": "[míng] engrave, carve; 铭刻 míngkè inscription, engrave on one's mind 头"
+  },
+  {
+    "jian": "渊",
+    "fan": "淵",
+    "desc": "[yuān] 深渊 shēnyuān abyss"
+  },
+  {
+    "jian": "衬",
+    "fan": "襯",
+    "desc": "[chèn] line, to place underneath, lining; 衬衫 chènshān shirt"
+  },
+  {
+    "jian": "缅",
+    "fan": "緬",
+    "desc": "[miǎn] remote, long ago; 缅甸 Miǎndiàn Burma"
+  },
+  {
+    "jian": "搂",
+    "fan": "摟",
+    "desc": "[lǒu] hug; drag, pull\n[lōu] hold in the arms"
+  },
+  {
+    "jian": "缚",
+    "fan": "縛",
+    "desc": "[fù] tie up, bind"
+  },
+  {
+    "jian": "灿",
+    "fan": "燦",
+    "desc": "[càn] 灿烂 cànlàn splendid, magnificent"
+  },
+  {
+    "jian": "舆",
+    "fan": "輿",
+    "desc": "[yú] chariot; area; 舆论 yúlùn public opinion"
+  },
+  {
+    "jian": "韵",
+    "fan": "韻",
+    "desc": "[yùn] tone, charm, appeal, (=押韵 yāyùn) rhyme; 韵文 yùnwén verse"
+  },
+  {
+    "jian": "窃",
+    "fan": "竊",
+    "desc": "[qiè] 窃听 qiètīng eavesdrop; 盗窃 dàoqiè steal"
+  },
+  {
+    "jian": "侦",
+    "fan": "偵",
+    "desc": "[zhēn] 侦察 scout, reconnoitre; 侦探 detective"
+  },
+  {
+    "jian": "陕",
+    "fan": "陝",
+    "desc": "[Shǎn] 陕西省 Shǎnxīshěng Shaanxi Province"
+  },
+  {
+    "jian": "耸",
+    "fan": "聳",
+    "desc": "[sǒng] towering, lofty; alarm, shock; 高耸 gāosǒng stand tall"
+  },
+  {
+    "jian": "酱",
+    "fan": "醬",
+    "desc": "[jiàng] sauce, paste, jam; 酱油 jiàngyóu soy sauce; 花生酱 huāshēngjiàng peanut butter"
+  },
+  {
+    "jian": "壶",
+    "fan": "壺",
+    "desc": "[hú] kettle, pot, bottle"
+  },
+  {
+    "jian": "痒",
+    "fan": "癢",
+    "desc": "[yǎng] itch"
+  },
+  {
+    "jian": "壳",
+    "fan": "殼",
+    "desc": "[ké] shell, case\n[qiào] shell, hard surface"
+  },
+  {
+    "jian": "贞",
+    "fan": "貞",
+    "desc": "[zhēn] (坚贞, 忠贞) loyal; virgin; ancient fortune-telling"
+  },
+  {
+    "jian": "芦",
+    "fan": "蘆",
+    "desc": "[lú] 芦苇 lúwěi reed; 葫芦 húlu gourd\n[lǔ]"
+  },
+  {
+    "jian": "辅",
+    "fan": "輔",
+    "desc": "[fǔ] assist, complement; 辅导 fǔdǎo coach, tutor; 辅助 fǔzhù assist, auxiliary; 辅音 fǔyīn consonant"
+  },
+  {
+    "jian": "账",
+    "fan": "賬",
+    "desc": "[zhàng] account, credit, debt"
+  },
+  {
+    "jian": "捡",
+    "fan": "撿",
+    "desc": "[jiǎn] pick up, gather, collect"
+  },
+  {
+    "jian": "粪",
+    "fan": "糞",
+    "desc": "[fèn] excrement, manure"
+  },
+  {
+    "jian": "滥",
+    "fan": "濫",
+    "desc": "[làn] (=泛滥 fànlàn) overflow, flood; 滥用 lànyòng abuse"
+  },
+  {
+    "jian": "溃",
+    "fan": "潰",
+    "desc": "[kuì] (dam) burst; break through; 崩溃 collapse; 溃疡 ulcer\n[huì]"
+  },
+  {
+    "jian": "隶",
+    "fan": "隸",
+    "desc": "[lì] 奴隶 núlì slave; 隶书 lìshū official script"
+  },
+  {
+    "jian": "旷",
+    "fan": "曠",
+    "desc": "[kuàng] vast; to waste time; 旷野 wilderness"
+  },
+  {
+    "jian": "缴",
+    "fan": "繳",
+    "desc": "[jiǎo] hand in, pay\n[zhuó] silk string attached to an arrow for shooting birds"
+  },
+  {
+    "jian": "颖",
+    "fan": "穎",
+    "desc": "[yǐng] 新颖 xīnyǐng new and original, novel"
+  },
+  {
+    "jian": "妆",
+    "fan": "妝",
+    "desc": "[zhuāng] adorn oneself; 妆奁 bride's trousseau"
+  },
+  {
+    "jian": "蜡",
+    "fan": "蠟",
+    "desc": "[là] wax, polish, yellowish, (=蜡烛 làzhú) candle"
+  },
+  {
+    "jian": "剂",
+    "fan": "劑",
+    "desc": "[jì] dose"
+  },
+  {
+    "jian": "骤",
+    "fan": "驟",
+    "desc": "[zhòu] gallop; 步骤 bùzhòu procedure; 骤然 zhòurán suddenly"
+  },
+  {
+    "jian": "庐",
+    "fan": "廬",
+    "desc": "[lú] hut, cottage"
+  },
+  {
+    "jian": "苹",
+    "fan": "蘋",
+    "desc": "[píng] 苹果 píngguǒ apple"
+  },
+  {
+    "jian": "晒",
+    "fan": "曬",
+    "desc": "[shài] roast in sun"
+  },
+  {
+    "jian": "拢",
+    "fan": "攏",
+    "desc": "[lǒng] approach; hold together; comb (hair)"
+  },
+  {
+    "jian": "胧",
+    "fan": "朧",
+    "desc": "[lóng] 朦胧 ménglóng dim moonlight; obscure\n[lōng]"
+  },
+  {
+    "jian": "胶",
+    "fan": "膠",
+    "desc": "[jiāo] glue, gum, rubber, stick, sticky"
+  },
+  {
+    "jian": "讽",
+    "fan": "諷",
+    "desc": "[fěng] 讽刺 satirize, mock"
+  },
+  {
+    "jian": "拣",
+    "fan": "揀",
+    "desc": "[jiǎn] choose, select, pick out"
+  },
+  {
+    "jian": "桩",
+    "fan": "樁",
+    "desc": "[zhuāng] stake, pile; (量): 一桩大事"
+  },
+  {
+    "jian": "谣",
+    "fan": "謠",
+    "desc": "[yáo] ballad; 谣言 yáoyán rumor, hearsay"
+  },
+  {
+    "jian": "坠",
+    "fan": "墜",
+    "desc": "[zhuì] fall; weigh down; 坠子 zhuìzi weight; ear pendant; ballad"
+  },
+  {
+    "jian": "滞",
+    "fan": "滯",
+    "desc": "[zhì] stagnant, sluggish"
+  },
+  {
+    "jian": "诵",
+    "fan": "誦",
+    "desc": "[sòng] 背诵 recite from memory"
+  },
+  {
+    "jian": "冈",
+    "fan": "岡",
+    "desc": "[gāng] ridge of a hill"
+  },
+  {
+    "jian": "纱",
+    "fan": "紗",
+    "desc": "[shā] yarn; 绵纱 miánshā cotton yarn"
+  },
+  {
+    "jian": "衔",
+    "fan": "銜",
+    "desc": "[xián] hold in mouth; hold inside; rank; 军衔 military rank"
+  },
+  {
+    "jian": "腻",
+    "fan": "膩",
+    "desc": "[nì] greasy, oily; smooth; (腻烦 nìfan) disgusted, fed up"
+  },
+  {
+    "jian": "捞",
+    "fan": "撈",
+    "desc": "[lāo] dredge for, fish for, scoop up out of water"
+  },
+  {
+    "jian": "搅",
+    "fan": "攪",
+    "desc": "[jiǎo] disturb, annoy, (=搅拌) stir, mix, agitate,"
+  },
+  {
+    "jian": "伞",
+    "fan": "傘",
+    "desc": "[sǎn] (雨伞) umbrella; 跳伞, 降落伞 parachute"
+  },
+  {
+    "jian": "铸",
+    "fan": "鑄",
+    "desc": "[zhù] (铸造) casting, founding"
+  },
+  {
+    "jian": "躯",
+    "fan": "軀",
+    "desc": "[qū] 身躯 body, stature; 躯体 body"
+  },
+  {
+    "jian": "烫",
+    "fan": "燙",
+    "desc": "[tàng] hot (burning hot to the touch, cf. 热 rè)"
+  },
+  {
+    "jian": "浆",
+    "fan": "漿",
+    "desc": "[jiāng] syrup, starch\n[jiàng] (=糨 jiàng) thick (of porridge etc.)"
+  },
+  {
+    "jian": "酿",
+    "fan": "釀",
+    "desc": "[niàng] brew, ferment, wine, (=酿成 niàngchéng) result in, breed"
+  },
+  {
+    "jian": "鹅",
+    "fan": "鵝",
+    "desc": "[é] goose; 企鹅 qǐ'é penguin"
+  },
+  {
+    "jian": "兹",
+    "fan": "茲",
+    "desc": "[zī] <archaic> this; now; year\n[cí] 龟兹"
+  },
+  {
+    "jian": "捣",
+    "fan": "搗",
+    "desc": "[dǎo] pound, beat; harass; 捣乱 dǎoluàn make a disturbance"
+  },
+  {
+    "jian": "栋",
+    "fan": "棟",
+    "desc": "[dòng] ridgepole"
+  },
+  {
+    "jian": "缆",
+    "fan": "纜",
+    "desc": "[lǎn] cable; 缆车 cable car"
+  },
+  {
+    "jian": "烁",
+    "fan": "爍",
+    "desc": "[shuò] shining; 闪烁 glimmer, twinkle"
+  },
+  {
+    "jian": "诈",
+    "fan": "詐",
+    "desc": "[zhà] cheat, swindle; pretend, feign"
+  },
+  {
+    "jian": "纺",
+    "fan": "紡",
+    "desc": "[fǎng] spin yarn; 纺织 fǎngzhī spin and weave; 纺车 fǎngchē spinning wheel"
+  },
+  {
+    "jian": "锤",
+    "fan": "錘",
+    "desc": "[chuí] hammer"
+  },
+  {
+    "jian": "兑",
+    "fan": "兌",
+    "desc": "[duì] exchange, convert, add (water etc.); 兑换 duìhuàn convert, exchange"
+  },
+  {
+    "jian": "辫",
+    "fan": "辮",
+    "desc": "[biàn] braid"
+  },
+  {
+    "jian": "堕",
+    "fan": "墮",
+    "desc": "[duò] fall, sink; 堕落 duòluò degenerate, sink low"
+  },
+  {
+    "jian": "觅",
+    "fan": "覓",
+    "desc": "[mì] seek; look for; demand"
+  },
+  {
+    "jian": "谐",
+    "fan": "諧",
+    "desc": "[xié] in harmony"
+  },
+  {
+    "jian": "绸",
+    "fan": "綢",
+    "desc": "[chóu] (丝绸 sīchóu) silk"
+  },
+  {
+    "jian": "浇",
+    "fan": "澆",
+    "desc": "[jiāo] irrigate, water; pour liquid on; 浇花"
+  },
+  {
+    "jian": "沦",
+    "fan": "淪",
+    "desc": "[lún] sink; 沦陷 lúnxiàn fall (to enemy); 沦为 be reduced to"
+  },
+  {
+    "jian": "缕",
+    "fan": "縷",
+    "desc": "[lǚ] thread; strand; 蓝缕 lánlǚ shabby, ragged"
+  },
+  {
+    "jian": "萝",
+    "fan": "蘿",
+    "desc": "[luó] vine; 萝卜 luóbo radish; 胡萝卜 húluóbo carrot; 菠萝 bōluó pineapple"
+  },
+  {
+    "jian": "荫",
+    "fan": "蔭",
+    "desc": "[yìn] shady\n[yīn] (=阴)"
+  },
+  {
+    "jian": "讥",
+    "fan": "譏",
+    "desc": "[jī] 讥笑 jīxiào mock; 讥讽 jīfěng ridicule"
+  },
+  {
+    "jian": "葱",
+    "fan": "蔥",
+    "desc": "[cōng] green, (=葱头) onion, scallion"
+  },
+  {
+    "jian": "巩",
+    "fan": "鞏",
+    "desc": "[gǒng] 巩固 gǒnggù consolidate"
+  },
+  {
+    "jian": "斋",
+    "fan": "齋",
+    "desc": "[zhāi] vegetarian religious diet, give alms, room or building"
+  },
+  {
+    "jian": "帜",
+    "fan": "幟",
+    "desc": "[zhì] 旗帜 qízhì banner, flag, stand, position"
+  },
+  {
+    "jian": "铅",
+    "fan": "鉛",
+    "desc": "[qiān] lead (Pb); 铅笔 qiānbǐ pencil"
+  },
+  {
+    "jian": "贿",
+    "fan": "賄",
+    "desc": "[huì] (贿赂 huìlù) bribe; 行贿 give a bribe"
+  },
+  {
+    "jian": "绒",
+    "fan": "絨",
+    "desc": "[róng] down; velvet; floss"
+  },
+  {
+    "jian": "侣",
+    "fan": "侶",
+    "desc": "[lǚ] companion, associate"
+  },
+  {
+    "jian": "锻",
+    "fan": "鍛",
+    "desc": "[duàn] forge; 锻炼 duànliàn exercise"
+  },
+  {
+    "jian": "谴",
+    "fan": "譴",
+    "desc": "[qiǎn] 谴责 qiǎnzé condemn"
+  },
+  {
+    "jian": "汹",
+    "fan": "洶",
+    "desc": "[xiōng] 汹涌 xiōngyǒng turbulent"
+  },
+  {
+    "jian": "讳",
+    "fan": "諱",
+    "desc": "[huì] hide; avoid; name of deceased person"
+  },
+  {
+    "jian": "锣",
+    "fan": "鑼",
+    "desc": "[luó] gong"
+  },
+  {
+    "jian": "匀",
+    "fan": "勻",
+    "desc": "[yún] to divide evenly; to spare; even"
+  },
+  {
+    "jian": "绰",
+    "fan": "綽",
+    "desc": "[chuò] 绰号 chuòhào nickname\n[chāo] grab; take up"
+  },
+  {
+    "jian": "绞",
+    "fan": "絞",
+    "desc": "[jiǎo] twist; 绞杀 strangle; 绞刑 death by hanging"
+  },
+  {
+    "jian": "轴",
+    "fan": "軸",
+    "desc": "[zhóu] axle; axis; spool\n[zhòu]"
+  },
+  {
+    "jian": "垒",
+    "fan": "壘",
+    "desc": "[lěi] build by piling up stones etc.; 垒求 softball"
+  },
+  {
+    "jian": "蕴",
+    "fan": "蘊",
+    "desc": "[yùn] 蕴藏 yùncáng contain, hold in store"
+  },
+  {
+    "jian": "佣",
+    "fan": "傭",
+    "desc": "[yōng] hire, (=佣人 yōngrén) servant; 雇佣 gùyōng hire\n[yòng] (=佣金 yòngjīn) commission"
+  },
+  {
+    "jian": "昼",
+    "fan": "晝",
+    "desc": "[zhòu] daytime"
+  },
+  {
+    "jian": "蚀",
+    "fan": "蝕",
+    "desc": "[shí] lose; erode, corrode"
+  },
+  {
+    "jian": "虾",
+    "fan": "蝦",
+    "desc": "[xiā] shrimp; 龙虾 lóngxiā lobster; 虾炒饭 xiāchǎofàn shrimp fried rice\n[há] (=蛤); 虾蟆 háma frog, toad"
+  },
+  {
+    "jian": "谬",
+    "fan": "謬",
+    "desc": "[miù] 荒谬 huāngmiù absurd; 谬论 miùlùn fallacy"
+  },
+  {
+    "jian": "绅",
+    "fan": "紳",
+    "desc": "[shēn] 绅士 shēnshì gentleman, gentry"
+  },
+  {
+    "jian": "镶",
+    "fan": "鑲",
+    "desc": "[xiāng] inlay; edge"
+  },
+  {
+    "jian": "聋",
+    "fan": "聾",
+    "desc": "[lóng] (耳聋 ěrlóng) deaf"
+  },
+  {
+    "jian": "垄",
+    "fan": "壟",
+    "desc": "[lǒng] ridge or raised path in field; 垄断 monopolize"
+  },
+  {
+    "jian": "彦",
+    "fan": "彥",
+    "desc": "[yàn] man of virtue and ability"
+  },
+  {
+    "jian": "翘",
+    "fan": "翹",
+    "desc": "[qiào] hold up; 翘尾巴 qiào wěiba \"to hold up the tail\" = to be/get cocky, to be snobbish and self-important\n[qiáo] raise one's head; become warped"
+  },
+  {
+    "jian": "阐",
+    "fan": "闡",
+    "desc": "[chǎn] 阐明 chǎnmíng clarify; 阐述 chǎnshù expound"
+  },
+  {
+    "jian": "讼",
+    "fan": "訟",
+    "desc": "[sòng] 诉讼 sùsòng lawsuit"
+  },
+  {
+    "jian": "枢",
+    "fan": "樞",
+    "desc": "[shū] 枢纽 shūniǔ pivot, axis"
+  },
+  {
+    "jian": "崭",
+    "fan": "嶄",
+    "desc": "[zhǎn] <archaic> towering; 崭新 zhǎnxīn brand-new, completely new"
+  },
+  {
+    "jian": "泻",
+    "fan": "瀉",
+    "desc": "[xiè] 倾泻 come down in torrents; 泻药 laxative"
+  },
+  {
+    "jian": "俭",
+    "fan": "儉",
+    "desc": "[jiǎn] economical, (=俭朴 jiǎnpǔ) frugal; 勤俭 qínjiǎn industrious and thrifty"
+  }
+]
