@@ -33,4 +33,9 @@ window.addEventListener("load", () => {
   }
 
   document.getElementById("generate").addEventListener("click", generate);
+  document.addEventListener('keydown', (e) => 
+      if (e.key === " ") {
+          generate();
+      }
+  });
 });
