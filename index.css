@@ -32,6 +32,6 @@ div#container {
   margin: 30vh auto;
 }
 
-.fan {
+.reflect {
     transform: rotate3d(0, -10, 1, 180deg);
 }
