@@ -27,7 +27,11 @@ div#container {
   font-size: 72px;
   flex-flow: row wrap;
   width: 100vw;
-  justify-content: space-evenly;
+  justify-content: center;
   align-items: center;
   margin: 30vh auto;
+}
+
+.fan {
+    transform: rotate3d(0, -10, 1, 180deg);
 }
