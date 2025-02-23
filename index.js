@@ -5,6 +5,8 @@ window.addEventListener("load", () => {
     return Math.floor(Math.random() * (max - min) + min); // The maximum is exclusive and the minimum is inclusive
   }
   const container = document.getElementById("container");
+  const fan = document.getElementById("fan");
+  const jian = document.getElementById("jian");
   let characters = [];
 
   // data from https://www.tutormandarin.net/en/list-of-different-simplified-and-traditional-characters/
@@ -32,10 +34,26 @@ window.addEventListener("load", () => {
     display(characters[getRandomInt(0, characters.length)]);
   }
 
+  function reflect() {
+    if (fan.classList.contains("reflect")) {
+      jian.classList.add("reflect");
+      fan.classList.remove("reflect");
+    } else {
+      fan.classList.add("reflect");
+      jian.classList.remove("reflect");
+    }
+  }
+
   document.getElementById("generate").addEventListener("click", generate);
   document.addEventListener('keydown', (e) => {
       if (e.key === " ") {
           generate();
+      }
+  });
+  document.getElementById("reflect").addEventListener("click", reflect);
+  document.addEventListener('keydown', (e) => {
+      if (e.key === "r") {
+          reflect();
       }
   });
 });
