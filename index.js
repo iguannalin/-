@@ -1,4 +1,4 @@
-window.addEventListener("load", () => {
+mowindow.addEventListener("load", () => {
   function getRandomInt(min, max) {
     min = Math.ceil(min);
     max = Math.floor(max);
@@ -24,7 +24,7 @@ window.addEventListener("load", () => {
     elem1.className = "jian";
     elem1.innerText = ch.jian;
     const elem2 = document.createElement("div");
-    elem2.className = "fan";
+    elem2.className = "fan reflect";
     elem2.innerText = ch.fan;
     container.appendChild(elem1);
     container.appendChild(elem2);
