@@ -36,16 +36,16 @@ window.addEventListener("load", () => {
     }
   }
 
-  document.getElementById("generate").addEventListener("click", generate);
   document.addEventListener('keydown', (e) => {
       if (e.key === " ") {
           generate();
       }
   });
-  document.getElementById("reflect").addEventListener("click", reflect);
   document.addEventListener('keydown', (e) => {
       if (e.key === "r") {
           reflect();
       }
   });
+
+  setInterval(generate, 2500);
 });
