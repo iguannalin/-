@@ -33,5 +33,16 @@ div#container {
 }
 
 .reflect {
-    transform: rotate3d(0, -10, 1, 180deg);
+  /* transform: rotate3d(0, -10, 1, 180deg); */
+  transform: rotateX(180deg);
+}
+
+.fan { 
+  margin-top: -26px;
+  margin-left: 1px;
+}
+
+.fan.reflect {
+  margin-top: -41px;
+  margin-left: -4px;
 }
