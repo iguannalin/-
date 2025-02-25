@@ -46,3 +46,8 @@ div#container {
   margin-left: 0px;
   margin-top: -90px;
 }
+
+sub {
+  font-family: monospace;
+  font-size: 12px;
+}
