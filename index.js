@@ -47,5 +47,5 @@ window.addEventListener("load", () => {
       }
   });
 
-  setInterval(generate, 2500);
+  setInterval(generate, 5000);
 });
