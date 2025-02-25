@@ -29,7 +29,7 @@ div#container {
   width: 100vw;
   justify-content: center;
   align-items: center;
-  margin: 30vh auto;
+  margin: 10vh auto;
 }
 
 .reflect {
@@ -43,6 +43,6 @@ div#container {
 
 .fan.reflect {
   opacity: 0.9
-  margin-top: -92px;
-  margin-left: -6px;
+  margin-top: -94px;
+  margin-left: -9px;
 }
