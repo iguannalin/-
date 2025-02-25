@@ -6,7 +6,7 @@ window.addEventListener("load", () => {
   }
   const container = document.getElementById("container");
   const fan = document.querySelector(".fan")[0];
-  const jian = document.querySelector("jian")[0];
+  const jian = document.querySelector(".jian")[0];
   let characters = [];
 
   // data from https://www.tutormandarin.net/en/list-of-different-simplified-and-traditional-characters/
