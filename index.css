@@ -24,7 +24,7 @@ body {
 
 div#container {
   display: flex;
-  font-size: 72px;
+  font-size: 265px;
   flex-flow: column;
   width: 100vw;
   justify-content: center;
@@ -33,17 +33,16 @@ div#container {
 }
 
 .reflect {
-  /* transform: rotate3d(0, -10, 1, 180deg); */
   transform: rotateX(180deg);
 }
 
 .fan { 
-  margin-top: -41px;
-  margin-left: -4px;
+  margin-top: -146px;
+  margin-left: 3px;
 }
 
 .fan.reflect {
-  margin-top: -26px;
-  margin-left: 1px;
-
+  opacity: 0.9
+  margin-top: -92px;
+  margin-left: -6px;
 }
