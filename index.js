@@ -5,8 +5,8 @@ window.addEventListener("load", () => {
     return Math.floor(Math.random() * (max - min) + min); // The maximum is exclusive and the minimum is inclusive
   }
   const container = document.getElementById("container");
-  const fan = document.querySelector(".fan")[0];
-  const jian = document.querySelector(".jian")[0];
+  const fan = document.querySelector(".fan");
+  const jian = document.querySelector(".jian");
   let characters = [];
 
   // data from https://www.tutormandarin.net/en/list-of-different-simplified-and-traditional-characters/
