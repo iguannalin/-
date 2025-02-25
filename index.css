@@ -36,13 +36,13 @@ div#container {
   transform: rotateX(180deg);
 }
 
-.fan { 
-  margin-top: -146px;
-  margin-left: 3px;
+.fan {
+  margin-top: -157px;
+  margin-left: -5px;
 }
 
 .fan.reflect {
-  opacity: 0.9
-  margin-top: -94px;
-  margin-left: -9px;
+  opacity: 0.9;
+  margin-left: 0px;
+  margin-top: -90px;
 }
