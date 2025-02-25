@@ -38,11 +38,12 @@ div#container {
 }
 
 .fan { 
-  margin-top: -26px;
-  margin-left: 1px;
+  margin-top: -41px;
+  margin-left: -4px;
 }
 
 .fan.reflect {
-  margin-top: -41px;
-  margin-left: -4px;
+  margin-top: -26px;
+  margin-left: 1px;
+
 }
