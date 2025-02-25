@@ -6,6 +6,8 @@ window.addEventListener("load", () => {
   }
   const container = document.getElementById("container");
   let characters = [];
+  const fan = document.querySelector(".fan");
+  const jian = document.querySelector(".jian");
 
   // data from https://www.tutormandarin.net/en/list-of-different-simplified-and-traditional-characters/
   fetch("characters.json")
@@ -16,16 +18,8 @@ window.addEventListener("load", () => {
     });
 
   function display(ch) {
-    container.innerHTML = "";
-    console.log(ch);
-    const elem1 = document.createElement("div");
-    elem1.className = "jian";
-    elem1.innerText = ch.jian;
-    const elem2 = document.createElement("div");
-    elem2.className = "fan reflect";
-    elem2.innerText = ch.fan;
-    container.appendChild(elem1);
-    container.appendChild(elem2);
+    jian.innerText = ch.jian;
+    fan.innerText = ch.fan;
   }
 
   function generate() {
@@ -54,6 +48,4 @@ window.addEventListener("load", () => {
           reflect();
       }
   });
-  const fan = document.querySelector(".fan");
-  const jian = document.querySelector(".jian");
 });
